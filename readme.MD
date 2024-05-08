@@ -3,7 +3,7 @@
 # Introduction
   
 
-This repository contains code and data for my article "[Old Drugs, New Uses: the Graph Neural Network Approach](https://dgg32.medium.com/know-your-drugs-a-knowledge-graph-for-drug-drug-disease-interactions-a0629d192419)". 
+This repository contains code and data for my article "[Old Drugs, New Uses: the Graph Neural Network Approach](https://medium.com/@dgg32/old-drugs-new-uses-the-graph-neural-network-approach-294a1544d083)". 
 
 
 
