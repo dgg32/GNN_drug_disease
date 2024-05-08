@@ -1,0 +1,411 @@
+id	name	categories
+D009889	Opisthorchiasis	Infections
+D008224	Lymphoma, Follicular	Hemic and Lymphatic Diseases|Immune System Diseases|Neoplasms
+D014009	Onychomycosis	Skin and Connective Tissue Diseases|Infections
+D012559	Schizophrenia	Mental Disorders
+D013585	Synovitis	Musculoskeletal Diseases
+D013736	Testicular Neoplasms	Endocrine System Diseases|Neoplasms|Urogenital Diseases
+D001477	Bartter Syndrome	Endocrine System Diseases|Nutritional and Metabolic Diseases|Urogenital Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+D009765	Obesity	Nutritional and Metabolic Diseases|Pathological Conditions, Signs and Symptoms
+D008223	Lymphoma	Hemic and Lymphatic Diseases|Immune System Diseases|Neoplasms
+D007022	Hypotension	Cardiovascular Diseases
+D019052	Depression, Postpartum	Mental Disorders|Urogenital Diseases
+D003490	Cyanosis	Pathological Conditions, Signs and Symptoms
+D014435	Typhoid Fever	Infections
+D020734	Parkinsonian Disorders	Nervous System Diseases
+D006356	Heartburn	Pathological Conditions, Signs and Symptoms
+D015473	Leukemia, Promyelocytic, Acute	Hemic and Lymphatic Diseases|Neoplasms
+D001254	Astrocytoma	Neoplasms
+D006974	Hypertension, Malignant	Cardiovascular Diseases
+D009059	Mouth Diseases	Stomatognathic Diseases
+D001172	Arthritis, Rheumatoid	Skin and Connective Tissue Diseases|Immune System Diseases|Musculoskeletal Diseases
+D011565	Psoriasis	Skin and Connective Tissue Diseases
+D018589	Gastroparesis	Digestive System Diseases|Nervous System Diseases|Pathological Conditions, Signs and Symptoms
+D005148	Facial Dermatoses	Skin and Connective Tissue Diseases
+D006009	Glycogen Storage Disease Type II	Nutritional and Metabolic Diseases|Nervous System Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+D012373	Rocky Mountain Spotted Fever	Infections
+D007938	Leukemia	Hemic and Lymphatic Diseases|Neoplasms
+D009293	Opioid-Related Disorders	Mental Disorders
+D004696	Endocarditis	Cardiovascular Diseases
+D016403	Lymphoma, Large B-Cell, Diffuse	Hemic and Lymphatic Diseases|Immune System Diseases|Neoplasms
+D010930	Plague	Infections
+D046152	Gastrointestinal Stromal Tumors	Skin and Connective Tissue Diseases|Digestive System Diseases|Neoplasms
+D034721	Mastocytosis, Systemic	Skin and Connective Tissue Diseases|Immune System Diseases|Neoplasms
+D000724	Ancylostomiasis	Infections
+D011552	Pseudomonas Infections	Infections
+D012810	Sigmoid Diseases	Digestive System Diseases
+D008228	Lymphoma, Non-Hodgkin	Hemic and Lymphatic Diseases|Immune System Diseases|Neoplasms
+D010033	Otitis Media	Otorhinolaryngologic Diseases
+D003924	Diabetes Mellitus, Type 2	Endocrine System Diseases|Nutritional and Metabolic Diseases
+D005356	Fibromyalgia	Skin and Connective Tissue Diseases|Musculoskeletal Diseases|Nervous System Diseases
+D007500	Iritis	Eye Diseases
+D011629	Puberty, Precocious	Endocrine System Diseases
+D001228	Aspergillosis	Infections
+D006966	Hyperprolactinemia	Endocrine System Diseases|Nervous System Diseases
+D006689	Hodgkin Disease	Hemic and Lymphatic Diseases|Immune System Diseases|Neoplasms
+D003693	Delirium	Mental Disorders|Behavior and Behavior Mechanisms|Nervous System Diseases|Pathological Conditions, Signs and Symptoms
+D012220	Rhinitis	Respiratory Tract Diseases|Infections|Otorhinolaryngologic Diseases
+D055752	Small Cell Lung Carcinoma	Respiratory Tract Diseases|Neoplasms
+D004487	Edema	Pathological Conditions, Signs and Symptoms
+D003876	Dermatitis, Atopic	Skin and Connective Tissue Diseases|Immune System Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+D003233	Conjunctivitis, Allergic	Immune System Diseases|Eye Diseases
+D012883	Skin Ulcer	Skin and Connective Tissue Diseases
+D012221	Rhinitis, Allergic, Perennial	Respiratory Tract Diseases|Immune System Diseases|Infections|Otorhinolaryngologic Diseases
+D054198	Precursor Cell Lymphoblastic Leukemia-Lymphoma	Hemic and Lymphatic Diseases|Immune System Diseases|Neoplasms
+D007638	Keratoconjunctivitis Sicca	Eye Diseases
+D003556	Cystitis	Urogenital Diseases
+D006069	Gonorrhea	Infections|Urogenital Diseases|Pathological Conditions, Signs and Symptoms
+D002289	Carcinoma, Non-Small-Cell Lung	Respiratory Tract Diseases|Neoplasms
+D000224	Addison Disease	Endocrine System Diseases|Immune System Diseases
+D004938	Esophageal Neoplasms	Digestive System Diseases|Neoplasms
+D000292	Pelvic Inflammatory Disease	Infections|Urogenital Diseases
+D015451	Leukemia, Lymphocytic, Chronic, B-Cell	Hemic and Lymphatic Diseases|Immune System Diseases|Neoplasms|Pathological Conditions, Signs and Symptoms
+D011470	Prostatic Hyperplasia	Urogenital Diseases
+D006563	Herpes Zoster Ophthalmicus	Eye Diseases|Infections
+D014606	Uveitis, Anterior	Eye Diseases
+D001171	Arthritis, Juvenile	Skin and Connective Tissue Diseases|Immune System Diseases|Musculoskeletal Diseases
+D008088	Listeriosis	Infections
+D007827	Laryngitis	Respiratory Tract Diseases|Infections|Otorhinolaryngologic Diseases
+D004374	Ductus Arteriosus, Patent	Cardiovascular Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+D014397	Tuberculosis, Pulmonary	Respiratory Tract Diseases|Infections
+D000152	Acne Vulgaris	Skin and Connective Tissue Diseases
+D008269	Macular Edema	Eye Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+D013280	Stomatitis	Stomatognathic Diseases
+D001281	Atrial Fibrillation	Cardiovascular Diseases|Pathological Conditions, Signs and Symptoms
+D011271	Pregnancy, Ectopic	Urogenital Diseases
+D009128	Muscle Spasticity	Musculoskeletal Diseases|Nervous System Diseases|Pathological Conditions, Signs and Symptoms
+D002545	Brain Ischemia	Cardiovascular Diseases|Nervous System Diseases
+D019190	Iron Overload	Nutritional and Metabolic Diseases
+D000038	Abscess	Infections|Pathological Conditions, Signs and Symptoms
+D000230	Adenocarcinoma	Neoplasms
+D061218	Depressive Disorder, Treatment-Resistant	Mental Disorders
+D016066	Pleural Effusion, Malignant	Respiratory Tract Diseases|Neoplasms
+D019694	Hepatitis B, Chronic	Infections|Digestive System Diseases|Pathological Conditions, Signs and Symptoms
+D000236	Adenoma	Neoplasms
+D017180	Tachycardia, Ventricular	Cardiovascular Diseases|Pathological Conditions, Signs and Symptoms
+D014069	Tonsillitis	Stomatognathic Diseases|Respiratory Tract Diseases|Infections|Otorhinolaryngologic Diseases
+D018357	Respiratory Syncytial Virus Infections	Infections
+D000544	Alzheimer Disease	Mental Disorders|Nervous System Diseases
+D011666	Pulmonary Valve Stenosis	Cardiovascular Diseases
+D004942	Esophagitis, Peptic	Digestive System Diseases
+D006646	Histiocytosis, Langerhans-Cell	Hemic and Lymphatic Diseases|Respiratory Tract Diseases
+D000562	Amebiasis	Infections
+D021441	Carcinoma, Pancreatic Ductal	Endocrine System Diseases|Digestive System Diseases|Neoplasms
+D010373	Lice Infestations	Skin and Connective Tissue Diseases|Infections
+D014352	Trypanosomiasis	Infections
+D020528	Multiple Sclerosis, Chronic Progressive	Immune System Diseases|Nervous System Diseases|Pathological Conditions, Signs and Symptoms
+D007680	Kidney Neoplasms	Neoplasms|Urogenital Diseases
+D011087	Polycythemia Vera	Hemic and Lymphatic Diseases|Neoplasms
+D012552	Schistosomiasis	Infections
+D055953	Microscopic Polyangiitis	Skin and Connective Tissue Diseases|Immune System Diseases|Cardiovascular Diseases|Nervous System Diseases
+D013920	Thrombocythemia, Essential	Hemic and Lymphatic Diseases
+D010612	Pharyngitis	Stomatognathic Diseases|Respiratory Tract Diseases|Infections|Otorhinolaryngologic Diseases
+D019966	Substance-Related Disorders	Mental Disorders
+D004828	Epilepsies, Partial	Nervous System Diseases
+D006560	Herpes Labialis	Skin and Connective Tissue Diseases|Stomatognathic Diseases|Infections
+D013226	Status Epilepticus	Nervous System Diseases|Pathological Conditions, Signs and Symptoms
+D017726	Cytomegalovirus Retinitis	Eye Diseases|Infections
+D006949	Hyperlipidemias	Nutritional and Metabolic Diseases
+D006973	Hypertension	Cardiovascular Diseases
+D043183	Irritable Bowel Syndrome	Digestive System Diseases
+D006929	Hyperaldosteronism	Endocrine System Diseases
+D056844	Renal Colic	Pathological Conditions, Signs and Symptoms|Nervous System Diseases|Musculoskeletal and Neural Physiological Phenomena
+D003928	Diabetic Nephropathies	Endocrine System Diseases|Nutritional and Metabolic Diseases|Urogenital Diseases
+D016919	Meningitis, Cryptococcal	Infections|Nervous System Diseases|Pathological Conditions, Signs and Symptoms
+D003457	Cryptosporidiosis	Infections|Digestive System Diseases
+D018088	Tuberculosis, Multidrug-Resistant	Infections
+D004604	Elephantiasis	Hemic and Lymphatic Diseases
+D016868	Serratia Infections	Infections
+D003093	Colitis, Ulcerative	Digestive System Diseases
+D017116	Low Back Pain	Pathological Conditions, Signs and Symptoms|Nervous System Diseases|Musculoskeletal and Neural Physiological Phenomena
+D006526	Hepatitis C	Infections|Digestive System Diseases|Pathological Conditions, Signs and Symptoms
+D012128	Respiratory Distress Syndrome	Respiratory Tract Diseases
+D010003	Osteoarthritis	Skin and Connective Tissue Diseases|Musculoskeletal Diseases
+D011081	Polychondritis, Relapsing	Skin and Connective Tissue Diseases|Musculoskeletal Diseases
+D015863	Iridocyclitis	Eye Diseases
+D007246	Infertility	Urogenital Diseases
+D002544	Cerebral Infarction	Cardiovascular Diseases|Nervous System Diseases|Pathological Conditions, Signs and Symptoms
+D001017	Aortic Coarctation	Cardiovascular Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+D006457	Hemoglobinuria, Paroxysmal	Hemic and Lymphatic Diseases
+D002179	Candidiasis, Cutaneous	Skin and Connective Tissue Diseases|Infections
+D014860	Warts	Skin and Connective Tissue Diseases|Infections|Urogenital Diseases|Pathological Conditions, Signs and Symptoms
+D006484	Hemorrhoids	Cardiovascular Diseases|Digestive System Diseases
+D008881	Migraine Disorders	Nervous System Diseases
+D005891	Gingivitis	Stomatognathic Diseases|Infections
+D006229	Hand Dermatoses	Skin and Connective Tissue Diseases
+D003231	Conjunctivitis	Eye Diseases
+D000690	Amyotrophic Lateral Sclerosis	Nutritional and Metabolic Diseases|Nervous System Diseases
+D012893	Sleep Wake Disorders	Mental Disorders|Nervous System Diseases|Pathological Conditions, Signs and Symptoms
+D009798	Ocular Hypertension	Eye Diseases
+D018805	Sepsis	Infections|Pathological Conditions, Signs and Symptoms
+D000086382	COVID-19	Respiratory Tract Diseases|Infections
+D014594	Uterine Neoplasms	Neoplasms|Urogenital Diseases
+D011349	Proctitis	Digestive System Diseases
+D012859	Sjogren's Syndrome	Skin and Connective Tissue Diseases|Eye Diseases|Musculoskeletal Diseases|Immune System Diseases|Stomatognathic Diseases
+D013180	Sprains and Strains	Wounds and Injuries
+D016889	Endometrial Neoplasms	Neoplasms|Urogenital Diseases
+D003324	Coronary Artery Disease	Cardiovascular Diseases
+D015658	HIV Infections	Immune System Diseases|Infections|Urogenital Diseases|Pathological Conditions, Signs and Symptoms
+D003704	Dementia	Mental Disorders|Nervous System Diseases
+D006816	Huntington Disease	Pathological Conditions, Signs and Symptoms|Mental Disorders|Nervous System Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+D013274	Stomach Neoplasms	Digestive System Diseases|Neoplasms
+D008193	Lyme Disease	Infections
+D003110	Colonic Neoplasms	Digestive System Diseases|Neoplasms
+D003554	Cystinosis	Nutritional and Metabolic Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+D002277	Carcinoma	Neoplasms
+D008107	Liver Diseases	Digestive System Diseases
+D014927	Wolff-Parkinson-White Syndrome	Cardiovascular Diseases|Pathological Conditions, Signs and Symptoms|Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+D012004	Rectal Neoplasms	Digestive System Diseases|Neoplasms
+D020529	Multiple Sclerosis, Relapsing-Remitting	Immune System Diseases|Nervous System Diseases
+D001919	Bradycardia	Cardiovascular Diseases|Pathological Conditions, Signs and Symptoms
+D010518	Periodontitis	Stomatognathic Diseases
+D005185	Fallopian Tube Neoplasms	Neoplasms|Urogenital Diseases
+D004832	Epilepsy, Absence	Nervous System Diseases
+D016411	Lymphoma, T-Cell, Peripheral	Hemic and Lymphatic Diseases|Immune System Diseases|Neoplasms
+D001749	Urinary Bladder Neoplasms	Neoplasms|Urogenital Diseases
+D010911	Pituitary Neoplasms	Endocrine System Diseases|Nervous System Diseases|Neoplasms
+D003555	Cystinuria	Nutritional and Metabolic Diseases|Urogenital Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+D000749	Anemia, Megaloblastic	Hemic and Lymphatic Diseases
+D000741	Anemia, Aplastic	Hemic and Lymphatic Diseases
+D001528	Behcet Syndrome	Skin and Connective Tissue Diseases|Eye Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Stomatognathic Diseases|Cardiovascular Diseases
+D015523	Maxillary Sinusitis	Respiratory Tract Diseases|Infections|Otorhinolaryngologic Diseases
+D016781	Toxoplasmosis, Cerebral	Infections|Nervous System Diseases|Pathological Conditions, Signs and Symptoms
+D008595	Menorrhagia	Urogenital Diseases|Pathological Conditions, Signs and Symptoms
+D003865	Depressive Disorder, Major	Mental Disorders
+D011472	Prostatitis	Urogenital Diseases
+D007877	Legionnaires' Disease	Respiratory Tract Diseases|Infections
+D013272	Stomach Diseases	Digestive System Diseases
+D020918	Complex Regional Pain Syndromes	Nervous System Diseases
+D015464	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	Hemic and Lymphatic Diseases|Neoplasms|Pathological Conditions, Signs and Symptoms
+D003003	Clonorchiasis	Infections
+D013158	Splenic Diseases	Hemic and Lymphatic Diseases
+D003453	Cryptococcosis	Infections
+D004427	Ear Diseases	Otorhinolaryngologic Diseases
+D004833	Epilepsy, Temporal Lobe	Nervous System Diseases
+D008181	Lupus Nephritis	Skin and Connective Tissue Diseases|Immune System Diseases|Urogenital Diseases
+D015614	Histiocytosis	Hemic and Lymphatic Diseases
+D012852	Sinusitis	Respiratory Tract Diseases|Infections|Otorhinolaryngologic Diseases
+D002862	Chromoblastomycosis	Skin and Connective Tissue Diseases|Infections
+D002761	Cholangitis	Digestive System Diseases
+D020522	Lymphoma, Mantle-Cell	Hemic and Lymphatic Diseases|Immune System Diseases|Neoplasms
+D002292	Carcinoma, Renal Cell	Neoplasms|Urogenital Diseases
+D018783	Impotence, Vasculogenic	Mental Disorders|Urogenital Diseases
+D009120	Muscle Cramp	Musculoskeletal Diseases|Nervous System Diseases|Pathological Conditions, Signs and Symptoms
+D008368	Mansonelliasis	Infections
+D001168	Arthritis	Musculoskeletal Diseases
+D014098	Toothache	Pathological Conditions, Signs and Symptoms|Stomatognathic Diseases|Nervous System Diseases|Musculoskeletal and Neural Physiological Phenomena
+D006505	Hepatitis	Digestive System Diseases
+D006432	Hemochromatosis	Nutritional and Metabolic Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+D000196	Actinomycosis	Infections
+D009771	Obsessive-Compulsive Disorder	Mental Disorders
+D013617	Tachycardia, Supraventricular	Cardiovascular Diseases|Pathological Conditions, Signs and Symptoms
+D002295	Carcinoma, Transitional Cell	Neoplasms
+D005902	Glaucoma, Open-Angle	Eye Diseases
+D010510	Periodontal Diseases	Stomatognathic Diseases
+D014328	Trophoblastic Neoplasms	Neoplasms|Urogenital Diseases
+D011628	Puberty, Delayed	Endocrine System Diseases
+D003929	Diabetic Neuropathies	Endocrine System Diseases|Nutritional and Metabolic Diseases|Nervous System Diseases
+D012282	Rickettsia Infections	Infections
+D001850	Bone Diseases, Infectious	Infections|Musculoskeletal Diseases
+D000855	Anorexia	Pathological Conditions, Signs and Symptoms
+D015812	Glaucoma, Angle-Closure	Eye Diseases
+D031901	Gestational Trophoblastic Disease	Neoplasms|Urogenital Diseases
+D001932	Brain Neoplasms	Nervous System Diseases|Neoplasms
+D008288	Malaria	Infections
+D000795	Fabry Disease	Cardiovascular Diseases|Nutritional and Metabolic Diseases|Nervous System Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+D011928	Raynaud Disease	Skin and Connective Tissue Diseases|Cardiovascular Diseases
+D010787	Photosensitivity Disorders	Skin and Connective Tissue Diseases
+D013921	Thrombocytopenia	Hemic and Lymphatic Diseases
+D014581	Urticaria	Skin and Connective Tissue Diseases|Immune System Diseases
+D013981	Tic Disorders	Mental Disorders|Nervous System Diseases
+D008303	Malignant Carcinoid Syndrome	Neoplasms
+D020370	Osteoarthritis, Knee	Skin and Connective Tissue Diseases|Musculoskeletal Diseases
+D015266	Carcinoma, Merkel Cell	Infections|Neoplasms
+D020176	Tyrosinemias	Nutritional and Metabolic Diseases|Nervous System Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+D002177	Candidiasis	Infections
+D001196	Ascariasis	Infections
+D006333	Heart Failure	Cardiovascular Diseases
+D012628	Dermatitis, Seborrheic	Skin and Connective Tissue Diseases
+D014141	Trachoma	Eye Diseases|Infections|Urogenital Diseases|Pathological Conditions, Signs and Symptoms
+D012507	Sarcoidosis	Hemic and Lymphatic Diseases|Immune System Diseases
+D000789	Angina, Unstable	Cardiovascular Diseases|Pathological Conditions, Signs and Symptoms|Nervous System Diseases|Musculoskeletal and Neural Physiological Phenomena
+D008103	Liver Cirrhosis	Digestive System Diseases|Pathological Conditions, Signs and Symptoms
+D008258	Waldenstrom Macroglobulinemia	Cardiovascular Diseases|Hemic and Lymphatic Diseases|Immune System Diseases|Neoplasms
+D019586	Intracranial Hypertension	Nervous System Diseases
+D012175	Retinoblastoma	Eye Diseases|Neoplasms|Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+D003480	Cushing Syndrome	Endocrine System Diseases
+D001068	Feeding and Eating Disorders	Mental Disorders
+D006940	Hyperemia	Cardiovascular Diseases
+D000437	Alcoholism	Mental Disorders
+D005512	Food Hypersensitivity	Immune System Diseases
+D005764	Gastroesophageal Reflux	Stomatognathic Diseases|Digestive System Diseases|Otorhinolaryngologic Diseases
+D020795	Photophobia	Eye Diseases|Nervous System Diseases|Pathological Conditions, Signs and Symptoms
+D000172	Acromegaly	Endocrine System Diseases|Musculoskeletal Diseases|Nervous System Diseases
+D005776	Gaucher Disease	Nutritional and Metabolic Diseases|Nervous System Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+D013345	Subarachnoid Hemorrhage	Cardiovascular Diseases|Nervous System Diseases|Pathological Conditions, Signs and Symptoms
+D009101	Multiple Myeloma	Cardiovascular Diseases|Hemic and Lymphatic Diseases|Immune System Diseases|Neoplasms
+D011018	Pneumonia, Pneumococcal	Respiratory Tract Diseases|Infections
+D010051	Ovarian Neoplasms	Endocrine System Diseases|Neoplasms|Urogenital Diseases
+D006177	Gynecomastia	Skin and Connective Tissue Diseases
+D009447	Neuroblastoma	Neoplasms
+D016055	Urinary Retention	Urogenital Diseases
+D003320	Corneal Ulcer	Eye Diseases|Infections
+D001157	Arterial Occlusive Diseases	Cardiovascular Diseases
+D010229	Paracoccidioidomycosis	Infections
+D012393	Rosacea	Skin and Connective Tissue Diseases
+D010149	Pain, Postoperative	Pathological Conditions, Signs and Symptoms|Nervous System Diseases|Musculoskeletal and Neural Physiological Phenomena
+D006073	Gout	Skin and Connective Tissue Diseases|Nutritional and Metabolic Diseases|Musculoskeletal Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+D003424	Crohn Disease	Digestive System Diseases
+D013964	Thyroid Neoplasms	Endocrine System Diseases|Neoplasms
+D012120	Respiration Disorders	Respiratory Tract Diseases
+D006606	Hiccup	Pathological Conditions, Signs and Symptoms
+D013224	Status Asthmaticus	Respiratory Tract Diseases|Immune System Diseases
+D004418	Dyspnea, Paroxysmal	Cardiovascular Diseases|Respiratory Tract Diseases|Pathological Conditions, Signs and Symptoms
+D012213	Rheumatic Fever	Skin and Connective Tissue Diseases|Infections|Musculoskeletal Diseases
+D015663	Osteoporosis, Postmenopausal	Musculoskeletal Diseases|Nutritional and Metabolic Diseases
+D020269	Alcoholic Neuropathy	Mental Disorders|Nervous System Diseases
+D003920	Diabetes Mellitus	Endocrine System Diseases|Nutritional and Metabolic Diseases
+D001002	Anuria	Urogenital Diseases
+D001750	Urinary Bladder, Neurogenic	Nervous System Diseases|Urogenital Diseases|Pathological Conditions, Signs and Symptoms
+D001282	Atrial Flutter	Cardiovascular Diseases|Pathological Conditions, Signs and Symptoms
+D010437	Peptic Ulcer	Digestive System Diseases
+D006467	Hemophilia A	Hemic and Lymphatic Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+D003234	Conjunctivitis, Bacterial	Eye Diseases|Infections
+D000740	Anemia	Hemic and Lymphatic Diseases
+D001929	Brain Edema	Nervous System Diseases
+D013119	Spinal Cord Injuries	Wounds and Injuries|Nervous System Diseases
+D011655	Pulmonary Embolism	Cardiovascular Diseases|Respiratory Tract Diseases
+D011618	Psychotic Disorders	Mental Disorders
+D006528	Carcinoma, Hepatocellular	Digestive System Diseases|Neoplasms
+D006402	Hematologic Diseases	Hemic and Lymphatic Diseases
+D001249	Asthma	Respiratory Tract Diseases|Immune System Diseases
+D018636	Hypoplastic Left Heart Syndrome	Cardiovascular Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+D007177	Inappropriate ADH Syndrome	Endocrine System Diseases|Nutritional and Metabolic Diseases|Nervous System Diseases
+D010146	Pain	Pathological Conditions, Signs and Symptoms|Nervous System Diseases|Musculoskeletal and Neural Physiological Phenomena
+D054990	Idiopathic Pulmonary Fibrosis	Respiratory Tract Diseases|Pathological Conditions, Signs and Symptoms
+D011183	Postoperative Complications	Pathological Conditions, Signs and Symptoms
+D001748	Urinary Bladder Neck Obstruction	Urogenital Diseases
+D009404	Nephrotic Syndrome	Urogenital Diseases
+D004381	Duodenal Ulcer	Digestive System Diseases
+D009220	Myositis	Musculoskeletal Diseases|Nervous System Diseases
+D015228	Hypertriglyceridemia	Nutritional and Metabolic Diseases
+D020803	Encephalitis, Herpes Simplex	Infections|Nervous System Diseases|Pathological Conditions, Signs and Symptoms
+D015043	Zollinger-Ellison Syndrome	Endocrine System Diseases|Digestive System Diseases|Neoplasms
+D012148	Restless Legs Syndrome	Mental Disorders|Nervous System Diseases|Pathological Conditions, Signs and Symptoms
+D017229	Enterobiasis	Infections
+D029424	Pulmonary Disease, Chronic Obstructive	Respiratory Tract Diseases|Pathological Conditions, Signs and Symptoms
+D001404	Babesiosis	Infections
+D003449	Cryoglobulinemia	Skin and Connective Tissue Diseases|Hemic and Lymphatic Diseases|Immune System Diseases|Cardiovascular Diseases
+D008173	Lung Diseases, Obstructive	Respiratory Tract Diseases
+D009332	Necatoriasis	Infections
+D012208	Rhabdomyosarcoma	Neoplasms
+D020329	Essential Tremor	Nervous System Diseases
+D006934	Hypercalcemia	Nutritional and Metabolic Diseases
+D007787	Lactose Intolerance	Digestive System Diseases|Nutritional and Metabolic Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+D012516	Osteosarcoma	Skin and Connective Tissue Diseases|Neoplasms
+D000799	Angioedema	Skin and Connective Tissue Diseases|Immune System Diseases|Cardiovascular Diseases
+D009182	Mycosis Fungoides	Hemic and Lymphatic Diseases|Immune System Diseases|Neoplasms
+D005873	Giardiasis	Infections|Digestive System Diseases
+D015212	Inflammatory Bowel Diseases	Digestive System Diseases
+D006962	Hyperparathyroidism, Secondary	Endocrine System Diseases
+D008105	Liver Cirrhosis, Biliary	Digestive System Diseases|Pathological Conditions, Signs and Symptoms
+D012509	Sarcoma	Neoplasms
+D013967	Thyroiditis, Autoimmune	Endocrine System Diseases|Immune System Diseases
+D020250	Postoperative Nausea and Vomiting	Pathological Conditions, Signs and Symptoms
+D004751	Enteritis	Digestive System Diseases
+D016489	Head Injuries, Closed	Wounds and Injuries|Nervous System Diseases
+D014526	Urethritis	Urogenital Diseases
+D006976	Hypertension, Pulmonary	Cardiovascular Diseases|Respiratory Tract Diseases
+D002178	Candidiasis, Chronic Mucocutaneous	Skin and Connective Tissue Diseases|Infections|Pathological Conditions, Signs and Symptoms
+D013771	Tetralogy of Fallot	Cardiovascular Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+D007006	Hypogonadism	Endocrine System Diseases
+D009902	Optic Neuritis	Eye Diseases|Nervous System Diseases
+D010301	Parkinson Disease, Postencephalitic	Nervous System Diseases
+D007868	Leg Dermatoses	Skin and Connective Tissue Diseases
+D014901	West Nile Fever	Infections|Nervous System Diseases|Pathological Conditions, Signs and Symptoms
+D013290	Streptococcal Infections	Infections
+D009290	Narcolepsy	Mental Disorders|Nervous System Diseases|Pathological Conditions, Signs and Symptoms
+D003108	Colonic Diseases	Digestive System Diseases
+D014555	Urination Disorders	Urogenital Diseases
+D011008	Pneumococcal Infections	Infections
+D065631	Rhinitis, Allergic	Respiratory Tract Diseases|Immune System Diseases|Infections|Otorhinolaryngologic Diseases
+D018273	Carcinoma, Islet Cell	Endocrine System Diseases|Digestive System Diseases|Neoplasms
+D004831	Epilepsies, Myoclonic	Nervous System Diseases
+D013971	Thyrotoxicosis	Endocrine System Diseases
+D008059	Mucopolysaccharidosis I	Skin and Connective Tissue Diseases|Nutritional and Metabolic Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+D001762	Blepharitis	Eye Diseases
+D011656	Pulmonary Emphysema	Respiratory Tract Diseases|Pathological Conditions, Signs and Symptoms
+D000312	Adrenal Hyperplasia, Congenital	Endocrine System Diseases|Nutritional and Metabolic Diseases|Urogenital Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+D010032	Otitis Externa	Otorhinolaryngologic Diseases
+D014842	von Willebrand Diseases	Hemic and Lymphatic Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+D001847	Bone Diseases	Musculoskeletal Diseases
+D006938	Hyperlipoproteinemia Type II	Nutritional and Metabolic Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+D014552	Urinary Tract Infections	Infections|Urogenital Diseases
+D001906	Botulism	Infections|Nervous System Diseases
+D009203	Myocardial Infarction	Cardiovascular Diseases|Pathological Conditions, Signs and Symptoms
+D004823	Epididymitis	Urogenital Diseases
+D012512	Sarcoma, Ewing	Skin and Connective Tissue Diseases|Neoplasms
+D016905	Gram-Negative Bacterial Infections	Infections
+D006561	Herpes Simplex	Skin and Connective Tissue Diseases|Infections
+D005756	Gastritis	Digestive System Diseases
+D019955	Conduct Disorder	Mental Disorders
+D006556	Heroin Dependence	Mental Disorders
+D003047	Coccidioidomycosis	Infections
+D004401	Dysarthria	Mental Disorders|Behavior and Behavior Mechanisms|Nervous System Diseases|Pathological Conditions, Signs and Symptoms
+D011469	Prostatic Diseases	Urogenital Diseases
+D009230	Myxedema	Skin and Connective Tissue Diseases|Endocrine System Diseases
+D010391	Pemphigoid, Bullous	Skin and Connective Tissue Diseases|Immune System Diseases
+D012640	Seizures	Nervous System Diseases|Pathological Conditions, Signs and Symptoms
+D001991	Bronchitis	Respiratory Tract Diseases|Infections
+D004415	Dyspepsia	Pathological Conditions, Signs and Symptoms
+D000755	Anemia, Sickle Cell	Hemic and Lymphatic Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+D012798	Sialorrhea	Stomatognathic Diseases
+D008607	Intellectual Disability	Mental Disorders|Behavior and Behavior Mechanisms|Nervous System Diseases|Pathological Conditions, Signs and Symptoms
+D014591	Uterine Diseases	Urogenital Diseases
+D002181	Candidiasis, Vulvovaginal	Infections|Urogenital Diseases
+D006947	Hyperkalemia	Nutritional and Metabolic Diseases
+D001289	Attention Deficit Disorder with Hyperactivity	Mental Disorders
+D010493	Pericarditis	Cardiovascular Diseases
+D003371	Cough	Respiratory Tract Diseases|Pathological Conditions, Signs and Symptoms
+D015535	Arthritis, Psoriatic	Skin and Connective Tissue Diseases|Infections|Musculoskeletal Diseases
+D014277	Trigeminal Neuralgia	Stomatognathic Diseases|Nervous System Diseases
+D007896	Leishmaniasis	Skin and Connective Tissue Diseases|Infections
+D020388	Muscular Dystrophy, Duchenne	Musculoskeletal Diseases|Nervous System Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+D001714	Bipolar Disorder	Mental Disorders
+D013313	Stress Disorders, Post-Traumatic	Mental Disorders
+D002280	Carcinoma, Basal Cell	Neoplasms
+D001321	Autistic Disorder	Mental Disorders
+D009091	Mucormycosis	Infections
+D000379	Agoraphobia	Mental Disorders
+D002389	Catatonia	Behavior and Behavior Mechanisms|Nervous System Diseases|Pathological Conditions, Signs and Symptoms
+D016532	Mucopolysaccharidosis II	Skin and Connective Tissue Diseases|Mental Disorders|Nutritional and Metabolic Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities|Behavior and Behavior Mechanisms|Nervous System Diseases|Pathological Conditions, Signs and Symptoms
+D003877	Dermatitis, Contact	Skin and Connective Tissue Diseases
+D014123	Toxoplasmosis	Infections
+D001145	Arrhythmias, Cardiac	Cardiovascular Diseases|Pathological Conditions, Signs and Symptoms
+D012878	Skin Neoplasms	Skin and Connective Tissue Diseases|Neoplasms
+D013174	Sporotrichosis	Skin and Connective Tissue Diseases|Infections
+D000752	Anemia, Pernicious	Hemic and Lymphatic Diseases|Nutritional and Metabolic Diseases
+D002006	Brucellosis	Infections
+D015179	Colorectal Neoplasms	Digestive System Diseases|Neoplasms
+D004775	Enuresis	Mental Disorders|Behavior and Behavior Mechanisms|Urogenital Diseases
+D009855	Onchocerciasis	Skin and Connective Tissue Diseases|Infections
+D003881	Dermatomycoses	Skin and Connective Tissue Diseases|Infections
+D005901	Glaucoma	Eye Diseases
+D017086	beta-Thalassemia	Hemic and Lymphatic Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+D010673	Pheochromocytoma	Neoplasms
+D012778	Short Bowel Syndrome	Digestive System Diseases|Nutritional and Metabolic Diseases|Pathological Conditions, Signs and Symptoms
+D010383	Pellagra	Nutritional and Metabolic Diseases
+D012772	Shock, Septic	Infections|Pathological Conditions, Signs and Symptoms
+D010300	Parkinson Disease	Nutritional and Metabolic Diseases|Nervous System Diseases
+D006470	Hemorrhage	Pathological Conditions, Signs and Symptoms
+D018410	Pneumonia, Bacterial	Respiratory Tract Diseases|Infections
+D017681	Hypereosinophilic Syndrome	Hemic and Lymphatic Diseases
+D016410	Lymphoma, T-Cell, Cutaneous	Hemic and Lymphatic Diseases|Immune System Diseases|Neoplasms
+D003874	Dermatitis Herpetiformis	Skin and Connective Tissue Diseases|Immune System Diseases
+D016881	Microsporidiosis	Infections
+D015673	Fatigue Syndrome, Chronic	Infections|Musculoskeletal Diseases|Nervous System Diseases|Pathological Conditions, Signs and Symptoms
+D014010	Tinea Versicolor	Skin and Connective Tissue Diseases|Infections
+D009373	Neoplasms, Germ Cell and Embryonal	Neoplasms
+D015270	Mycobacterium avium-intracellulare Infection	Infections
+D004827	Epilepsy	Nervous System Diseases
+D006527	Hepatolenticular Degeneration	Digestive System Diseases|Nutritional and Metabolic Diseases|Nervous System Diseases|Congenital, Hereditary, and Neonatal Diseases and Abnormalities

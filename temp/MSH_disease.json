@@ -1,0 +1,684 @@
+{"name": "renal cell carcinoma", "MSH_id": "D002292"}
+{"name": "raynaud's phenomenon", "MSH_id": "D011928"}
+{"name": "duodenal ulcer", "MSH_id": "D004381"}
+{"name": "smoking cessation", "MSH_id": "D016540"}
+{"name": "ventricular tachycardia", "MSH_id": "D017180"}
+{"name": "small cell lung carcinoma", "MSH_id": "D055752"}
+{"name": "medullary thyroid carcinoma", "MSH_id": "C536914"}
+{"name": "renal colic", "MSH_id": "D056844"}
+{"name": "postoperative acute pain", "MSH_id": "D010149"}
+{"name": "osteoarthritis of the knee", "MSH_id": "D020370"}
+{"name": "rheumatoid arthritis", "MSH_id": "D001172"}
+{"name": "crohn's disease", "MSH_id": "D003424"}
+{"name": "stevens-johnson syndrome", "MSH_id": "D013262"}
+{"name": "denture stomatitis", "MSH_id": "D013282"}
+{"name": "ocular rosacea", "MSH_id": "D012393"}
+{"name": "otitis externa", "MSH_id": "D010032"}
+{"name": "sprains and strains", "MSH_id": "D013180"}
+{"name": "hiv infection", "MSH_id": "D015658"}
+{"name": "septic shock", "MSH_id": "D012772"}
+{"name": "synovitis", "MSH_id": "D013585"}
+{"name": "status asthmaticus", "MSH_id": "D013224"}
+{"name": "acne rosacea", "MSH_id": "D012393"}
+{"name": "acne vulgaris", "MSH_id": "D000152"}
+{"name": "acromegaly", "MSH_id": "D000172"}
+{"name": "endometrial carcinoma", "MSH_id": "D016889"}
+{"name": "migraine", "MSH_id": "D008881"}
+{"name": "streptococcal pneumonia", "MSH_id": "D011018"}
+{"name": "spinal anesthesia", "MSH_id": "D000775"}
+{"name": "rhinorrhea", "MSH_id": "D000086722"}
+{"name": "chronic idiopathic urticaria", "MSH_id": "D000080223"}
+{"name": "pneumococcal pneumonia", "MSH_id": "D011018"}
+{"name": "post traumatic stress disorder", "MSH_id": "D013313"}
+{"name": "type 2 diabetes mellitus", "MSH_id": "D003924"}
+{"name": "pulmonary thromboembolism", "MSH_id": "D011655"}
+{"name": "pulmonary tuberculosis", "MSH_id": "D014397"}
+{"name": "proctitis", "MSH_id": "D011349"}
+{"name": "induction of labor", "MSH_id": "D007751"}
+{"name": "opioid dependence", "MSH_id": "D009293"}
+{"name": "social phobia", "MSH_id": "D000072861"}
+{"name": "narcolepsy syndrome", "MSH_id": "D009290"}
+{"name": "nephropathic cystinosis", "MSH_id": "D003554"}
+{"name": "perennial allergic rhinitis", "MSH_id": "D012221"}
+{"name": "osteoarthritis", "MSH_id": "D010003"}
+{"name": "subarachnoid intracranial hemorrhage", "MSH_id": "D013345"}
+{"name": "schizophrenia", "MSH_id": "D012559"}
+{"name": "necrobiosis lipoidica diabeticorum", "MSH_id": "D009335"}
+{"name": "periodontitis", "MSH_id": "D010518"}
+{"name": "diffuse lewy body disease", "MSH_id": "D020961"}
+{"name": "diabetes mellitus", "MSH_id": "D003920"}
+{"name": "simple-partial epilepsy", "MSH_id": "D004828"}
+{"name": "pulmonary arterial hypertension", "MSH_id": "D000081029"}
+{"name": "mycosis fungoides", "MSH_id": "D009182"}
+{"name": "secondary progressive multiple sclerosis", "MSH_id": "D020528"}
+{"name": "keratosis follicularis", "MSH_id": "D007644"}
+{"name": "keratoconjunctivitis sicca", "MSH_id": "D007638"}
+{"name": "restless leg syndrome", "MSH_id": "D012148"}
+{"name": "congenital pituitary hypoplasia", "MSH_id": "C565976"}
+{"name": "essential tremor", "MSH_id": "D020329"}
+{"name": "idiopathic parkinsonism", "MSH_id": "D010300"}
+{"name": "fibromyalgia", "MSH_id": "D005356"}
+{"name": "ulcerative colitis", "MSH_id": "D003093"}
+{"name": "diabetic nephropathy", "MSH_id": "D003928"}
+{"name": "polycythemia vera", "MSH_id": "D011087"}
+{"name": "opioid-induced constipation", "MSH_id": "D000079689"}
+{"name": "sarcoidosis", "MSH_id": "D012507"}
+{"name": "epilepsy", "MSH_id": "D004827"}
+{"name": "gaucher's disease", "MSH_id": "D005776"}
+{"name": "status epilepticus", "MSH_id": "D013226"}
+{"name": "patent ductus arteriosus", "MSH_id": "D004374"}
+{"name": "severe chronic neutropenia", "MSH_id": "C535815"}
+{"name": "enterobiasis", "MSH_id": "D017229"}
+{"name": "rheumatic fever", "MSH_id": "D012213"}
+{"name": "multiple myeloma", "MSH_id": "D009101"}
+{"name": "chronic hepatitis b", "MSH_id": "D019694"}
+{"name": "hyperkalemia", "MSH_id": "D006947"}
+{"name": "hypertension", "MSH_id": "D006973"}
+{"name": "attention-deficit hyperactivity disorder", "MSH_id": "D001289"}
+{"name": "pleural malignant effusion", "MSH_id": "D016066"}
+{"name": "sickle cell disease", "MSH_id": "D000755"}
+{"name": "mucormycosis", "MSH_id": "D009091"}
+{"name": "essential thrombocytosis", "MSH_id": "D013920"}
+{"name": "open angle glaucoma", "MSH_id": "D005902"}
+{"name": "myxedema", "MSH_id": "D009230"}
+{"name": "major depressive disorder", "MSH_id": "D003865"}
+{"name": "amyotrophic lateral sclerosis", "MSH_id": "D000690"}
+{"name": "ectopic atrial tachycardia", "MSH_id": "D013612"}
+{"name": "nocturnal enuresis", "MSH_id": "D053206"}
+{"name": "toothache", "MSH_id": "D014098"}
+{"name": "schizoaffective disorder", "MSH_id": "D011618"}
+{"name": "cutaneous candidiasis", "MSH_id": "D002179"}
+{"name": "fabry disease", "MSH_id": "D000795"}
+{"name": "systemic mastocytosis", "MSH_id": "D034721"}
+{"name": "short bowel syndrome", "MSH_id": "D012778"}
+{"name": "skin ulcer", "MSH_id": "D012883"}
+{"name": "priapism", "MSH_id": "D011317"}
+{"name": "hypertensive crisis", "MSH_id": "D000096003"}
+{"name": "malignant tumor of urinary bladder", "MSH_id": "D001749"}
+{"name": "herpes labialis", "MSH_id": "D006560"}
+{"name": "lymphomatous meningitis", "MSH_id": "D055756"}
+{"name": "cystinuria", "MSH_id": "D003555"}
+{"name": "sjogren's syndrome", "MSH_id": "D012859"}
+{"name": "labor pain", "MSH_id": "D048949"}
+{"name": "postmenopausal osteoporosis", "MSH_id": "D015663"}
+{"name": "rocky mountain spotted fever", "MSH_id": "D012373"}
+{"name": "eosinophilic granulomatosis with polyangiitis", "MSH_id": "D015267"}
+{"name": "optic neuritis", "MSH_id": "D009902"}
+{"name": "squamous cell carcinoma of head and neck", "MSH_id": "D000077195"}
+{"name": "hyperlipidemia", "MSH_id": "D006949"}
+{"name": "hereditary tyrosinemia type i", "MSH_id": "D020176"}
+{"name": "aplastic anemia", "MSH_id": "D000741"}
+{"name": "alcoholism", "MSH_id": "D000437"}
+{"name": "obsessive-compulsive disorder", "MSH_id": "D009771"}
+{"name": "stomatitis", "MSH_id": "D013280"}
+{"name": "familial hyperkalemic periodic paralysis", "MSH_id": "D020513"}
+{"name": "fungal infection of skin", "MSH_id": "D003881"}
+{"name": "seborrheic dermatitis", "MSH_id": "D012628"}
+{"name": "paracoccidioidomycosis", "MSH_id": "D010229"}
+{"name": "siadh syndrome", "MSH_id": "D007177"}
+{"name": "wilson's disease", "MSH_id": "D006527"}
+{"name": "multicentric castleman's disease", "MSH_id": "C537372"}
+{"name": "precocious puberty", "MSH_id": "D011629"}
+{"name": "vulvovaginal candidiasis", "MSH_id": "D002181"}
+{"name": "atopic dermatitis", "MSH_id": "D003876"}
+{"name": "mucopolysaccharidosis type ii", "MSH_id": "D016532"}
+{"name": "urinary retention", "MSH_id": "D016055"}
+{"name": "mucopolysaccharidosis type i", "MSH_id": "D008059"}
+{"name": "giant papillary conjunctivitis", "MSH_id": "D003233"}
+{"name": "malignant neoplasm of the ovary", "MSH_id": "D010051"}
+{"name": "lactose intolerance", "MSH_id": "D007787"}
+{"name": "menorrhagia", "MSH_id": "D008595"}
+{"name": "cough", "MSH_id": "D003371"}
+{"name": "rhinitis", "MSH_id": "D012220"}
+{"name": "non-radiographic axial spondyloarthritis", "MSH_id": "D000089202"}
+{"name": "hypercortisolism", "MSH_id": "D003480"}
+{"name": "respiratory syncytial virus infection", "MSH_id": "D018357"}
+{"name": "psoriatic arthritis", "MSH_id": "D015535"}
+{"name": "peripheral t-cell lymphoma", "MSH_id": "D016411"}
+{"name": "gestational diabetes mellitus", "MSH_id": "D016640"}
+{"name": "neoplasm of brain", "MSH_id": "D001932"}
+{"name": "multiple endocrine neoplasia", "MSH_id": "D009377"}
+{"name": "irritable bowel syndrome", "MSH_id": "D043183"}
+{"name": "ocular hypertension", "MSH_id": "D009798"}
+{"name": "focal epilepsy", "MSH_id": "D004828"}
+{"name": "supraventricular tachycardia", "MSH_id": "D013617"}
+{"name": "absence epilepsy", "MSH_id": "D004832"}
+{"name": "basal cell carcinoma of skin", "MSH_id": "D002280"}
+{"name": "streptococcal infection", "MSH_id": "D013290"}
+{"name": "duchenne muscular dystrophy", "MSH_id": "D020388"}
+{"name": "hemophilia a", "MSH_id": "D006467"}
+{"name": "schistosomiasis", "MSH_id": "D012552"}
+{"name": "croup", "MSH_id": "D003440"}
+{"name": "encephalitis due to toxoplasmosis", "MSH_id": "D016781"}
+{"name": "systemic-onset juvenile idiopathic arthritis", "MSH_id": "D001171"}
+{"name": "primary biliary cholangitis", "MSH_id": "D008105"}
+{"name": "homozygous familial hypercholesterolemia", "MSH_id": "D000090542"}
+{"name": "idiopathic pulmonary fibrosis", "MSH_id": "D054990"}
+{"name": "endometrial carcinoma", "MSH_id": "D016889"}
+{"name": "Lyme disease", "MSH_id": "D008193"}
+{"name": "autism", "MSH_id": "D001321"}
+{"name": "agoraphobia", "MSH_id": "D000379"}
+{"name": "hypokalemic periodic paralysis", "MSH_id": "D020514"}
+{"name": "irritable bowel syndrome", "MSH_id": "D043183"}
+{"name": "Letterer\u2013Siwe disease", "MSH_id": "D006646"}
+{"name": "hyperaemia", "MSH_id": "D006940"}
+{"name": "tuberculous meningitis", "MSH_id": "D014390"}
+{"name": "rickettsiosis", "MSH_id": "D012282"}
+{"name": "hyperkalemic periodic paralysis", "MSH_id": "D020513"}
+{"name": "neuroretinitis", "MSH_id": "D012173"}
+{"name": "West Nile encephalitis", "MSH_id": "D014901"}
+{"name": "osteoarthritis", "MSH_id": "D010003"}
+{"name": "hypereosinophilic syndrome", "MSH_id": "D017681"}
+{"name": "dermatomycosis", "MSH_id": "D003881"}
+{"name": "polymyalgia rheumatica", "MSH_id": "D011111"}
+{"name": "neurotic disorder", "MSH_id": "D009497"}
+{"name": "schistosomiasis", "MSH_id": "D012552"}
+{"name": "giardiasis", "MSH_id": "D005873"}
+{"name": "Ovarian cancer", "MSH_id": "D010051"}
+{"name": "subacute delirium", "MSH_id": "D003693"}
+{"name": "indigestion", "MSH_id": "D004415"}
+{"name": "childhood absence epilepsy", "MSH_id": "D004832"}
+{"name": "malignant hypertension", "MSH_id": "D006974"}
+{"name": "autoimmune thyroiditis", "MSH_id": "D013967"}
+{"name": "migraine disorder", "MSH_id": "D008881"}
+{"name": "neurogenic bladder", "MSH_id": "D001750"}
+{"name": "anuria", "MSH_id": "D001002"}
+{"name": "chronic obstructive pulmonary disease", "MSH_id": "D029424"}
+{"name": "cerebral infarction", "MSH_id": "D002544"}
+{"name": "chronic lymphocytic leukemia", "MSH_id": "D015451"}
+{"name": "maxillary sinusitis", "MSH_id": "D015523"}
+{"name": "supraventricular tachycardia", "MSH_id": "D013617"}
+{"name": "vasculogenic impotence", "MSH_id": "D018783"}
+{"name": "conjunctivitis", "MSH_id": "D003231"}
+{"name": "hypertriglyceridemia", "MSH_id": "D015228"}
+{"name": "amnesia", "MSH_id": "D000647"}
+{"name": "status epilepticus", "MSH_id": "D013226"}
+{"name": "familial adenomatous polyposis", "MSH_id": "C538265"}
+{"name": "legionnaires' disease", "MSH_id": "D007877"}
+{"name": "bacterial conjunctivitis", "MSH_id": "D003234"}
+{"name": "arterial hypertension", "MSH_id": "D006973"}
+{"name": "neuroendocrine carcinoma", "MSH_id": "D018278"}
+{"name": "respiratory disease", "MSH_id": "D012120"}
+{"name": "urinary tract infection", "MSH_id": "D014552"}
+{"name": "radiculopathy", "MSH_id": "D011843"}
+{"name": "giant papillary conjunctivitis", "MSH_id": "D003233"}
+{"name": "treatment-resistant depression", "MSH_id": "D061218"}
+{"name": "bacterial pneumonia", "MSH_id": "D018410"}
+{"name": "multiple system atrophy", "MSH_id": "D019578"}
+{"name": "neurodermatitis", "MSH_id": "D009450"}
+{"name": "Islet cell carcinoma", "MSH_id": "D018273"}
+{"name": "ancylostomiasis", "MSH_id": "D000724"}
+{"name": "trypanosomiasis", "MSH_id": "D014352"}
+{"name": "pulmonary hypertension", "MSH_id": "D006976"}
+{"name": "iritis", "MSH_id": "D007500"}
+{"name": "elephantiasis", "MSH_id": "D004604"}
+{"name": "Babesiosis", "MSH_id": "D001404"}
+{"name": "botulism", "MSH_id": "D001906"}
+{"name": "hepatocellular carcinoma", "MSH_id": "D006528"}
+{"name": "hypersalivation", "MSH_id": "D012798"}
+{"name": "Bellini duct carcinoma", "MSH_id": "D002292"}
+{"name": "gestational trophoblastic neoplasm", "MSH_id": "D031901"}
+{"name": "rotator cuff tear", "MSH_id": "D000070636"}
+{"name": "endocarditis", "MSH_id": "D004696"}
+{"name": "bronchitis", "MSH_id": "D001991"}
+{"name": "opiate dependence", "MSH_id": "D009293"}
+{"name": "hematopoietic system diseases", "MSH_id": "D006402"}
+{"name": "histiocytosis", "MSH_id": "D015614"}
+{"name": "secondary hyperparathyroidism", "MSH_id": "D006962"}
+{"name": "eating disorder", "MSH_id": "D001068"}
+{"name": "progressive multifocal leukoencephalopathy", "MSH_id": "D007968"}
+{"name": "bipolar disorder", "MSH_id": "D001714"}
+{"name": "herpes simplex", "MSH_id": "D006561"}
+{"name": "cutaneous T cell lymphoma", "MSH_id": "D016410"}
+{"name": "acute respiratory distress syndrome", "MSH_id": "D012128"}
+{"name": "Hodgkin lymphoma", "MSH_id": "D006689"}
+{"name": "anasarca", "MSH_id": "D004487"}
+{"name": "Fabry disease", "MSH_id": "D000795"}
+{"name": "mycobacterium infectious disease", "MSH_id": "C535526"}
+{"name": "bone fracture", "MSH_id": "D050723"}
+{"name": "macroglobulinemia", "MSH_id": "D008258"}
+{"name": "carcinoid syndrome", "MSH_id": "D008303"}
+{"name": "microsporidiosis", "MSH_id": "D016881"}
+{"name": "systemic-onset juvenile idiopathic arthritis", "MSH_id": "D001171"}
+{"name": "angiomyolipoma", "MSH_id": "D018207"}
+{"name": "Takayasu's arteritis", "MSH_id": "D013625"}
+{"name": "interstitial lung disease", "MSH_id": "D017563"}
+{"name": "gram-negative bacterial infection", "MSH_id": "D016905"}
+{"name": "autosomal dominant familial periodic fever", "MSH_id": "C536657"}
+{"name": "prolactinoma", "MSH_id": "D015175"}
+{"name": "germ cell cancer", "MSH_id": "D009373"}
+{"name": "hepatitis", "MSH_id": "D006505"}
+{"name": "chronic mucocutaneous candidiasis", "MSH_id": "D002178"}
+{"name": "infective endocarditis", "MSH_id": "D004696"}
+{"name": "lymphosarcoma", "MSH_id": "D008223"}
+{"name": "pulmonary tuberculosis", "MSH_id": "D014397"}
+{"name": "vernal conjunctivitis", "MSH_id": "D003233"}
+{"name": "bladder cancer", "MSH_id": "D001749"}
+{"name": "ear disease", "MSH_id": "D004427"}
+{"name": "proctitis", "MSH_id": "D011349"}
+{"name": "clonorchiasis", "MSH_id": "D003003"}
+{"name": "parkinsonian syndrome", "MSH_id": "D020734"}
+{"name": "trophoblastic neoplasm", "MSH_id": "D014328"}
+{"name": "sporotrichosis", "MSH_id": "D013174"}
+{"name": "lung small cell carcinoma", "MSH_id": "D055752"}
+{"name": "beta thalassemia", "MSH_id": "D017086"}
+{"name": "trachoma", "MSH_id": "D014141"}
+{"name": "pernicious anemia", "MSH_id": "D000752"}
+{"name": "non-Hodgkin lymphoma", "MSH_id": "D008228"}
+{"name": "psoriatic arthritis", "MSH_id": "D015535"}
+{"name": "septic shock", "MSH_id": "D012772"}
+{"name": "tongue cancer", "MSH_id": "D014062"}
+{"name": "aspergillosis", "MSH_id": "D001228"}
+{"name": "vulvovaginal candidiasis", "MSH_id": "D002181"}
+{"name": "blepharitis", "MSH_id": "D001762"}
+{"name": "chronic kidney disease", "MSH_id": "D051436"}
+{"name": "chronic myeloid leukemia", "MSH_id": "D015464"}
+{"name": "urination disorder", "MSH_id": "D014555"}
+{"name": "rare hereditary hemochromatosis", "MSH_id": "D006432"}
+{"name": "hyperkalemia", "MSH_id": "D006947"}
+{"name": "coarctation of the aorta", "MSH_id": "D001017"}
+{"name": "diffuse large B-cell lymphoma", "MSH_id": "D016403"}
+{"name": "appendix cancer", "MSH_id": "D001063"}
+{"name": "prostatitis", "MSH_id": "D011472"}
+{"name": "obstructive lung disease", "MSH_id": "D008173"}
+{"name": "unstable angina", "MSH_id": "D000789"}
+{"name": "pulmonary emphysema", "MSH_id": "D011656"}
+{"name": "hepatitis E", "MSH_id": "D016751"}
+{"name": "dysarthria", "MSH_id": "D004401"}
+{"name": "agitation in dementia", "MSH_id": "D000096762"}
+{"name": "cramp", "MSH_id": "D009120"}
+{"name": "pulmonary valve stenosis", "MSH_id": "D011666"}
+{"name": "brain ischemia", "MSH_id": "D002545"}
+{"name": "transient tic disorder", "MSH_id": "D013981"}
+{"name": "primary progressive multiple sclerosis", "MSH_id": "D020528"}
+{"name": "mental disorder", "MSH_id": "D001523"}
+{"name": "coccidioidomycosis", "MSH_id": "D003047"}
+{"name": "duodenal ulcer", "MSH_id": "D004381"}
+{"name": "hemorrhagic disease", "MSH_id": "D006474"}
+{"name": "gingivitis", "MSH_id": "D005891"}
+{"name": "myxedema", "MSH_id": "D009230"}
+{"name": "osteosarcoma", "MSH_id": "D012516"}
+{"name": "obsessive-compulsive disorder", "MSH_id": "D009771"}
+{"name": "Hodgkin's lymphoma", "MSH_id": "D006689"}
+{"name": "exudative vitreoretinopathy 1", "MSH_id": "C536382"}
+{"name": "borderline personality disorder", "MSH_id": "D001883"}
+{"name": "hypogonadotropic hypogonadism 7 with or without anosmia", "MSH_id": "C562785"}
+{"name": "phlebitis", "MSH_id": "D010689"}
+{"name": "heart arrhythmia", "MSH_id": "D001145"}
+{"name": "enterobiasis", "MSH_id": "D017229"}
+{"name": "dystonia", "MSH_id": "D020821"}
+{"name": "secondary progressive multiple sclerosis", "MSH_id": "D020528"}
+{"name": "hand dermatosis", "MSH_id": "D006229"}
+{"name": "gastrointestinal stromal tumor", "MSH_id": "D046152"}
+{"name": "anemia", "MSH_id": "D000740"}
+{"name": "plasmacytoma", "MSH_id": "D010954"}
+{"name": "listeriosis", "MSH_id": "D008088"}
+{"name": "cholangitis", "MSH_id": "D002761"}
+{"name": "atrial flutter", "MSH_id": "D001282"}
+{"name": "typhoid fever", "MSH_id": "D014435"}
+{"name": "Pseudomonas infection", "MSH_id": "D011552"}
+{"name": "glycogen storage disease II", "MSH_id": "D006009"}
+{"name": "familial retinoblastoma", "MSH_id": "D012175"}
+{"name": "mixed glioma", "MSH_id": "D005910"}
+{"name": "spindle cell carcinoma", "MSH_id": "D002277"}
+{"name": "gonorrhea", "MSH_id": "D006069"}
+{"name": "infectious bone disease", "MSH_id": "D001850"}
+{"name": "Wolff-Parkinson-White syndrome", "MSH_id": "D014927"}
+{"name": "diabetic nephropathy", "MSH_id": "D003928"}
+{"name": "focal segmental glomerulosclerosis", "MSH_id": "C565831"}
+{"name": "follicular adenoma", "MSH_id": "D000236"}
+{"name": "benign neoplasm of brain", "MSH_id": "D001932"}
+{"name": "thyroid medullary carcinoma", "MSH_id": "C536914"}
+{"name": "congestive heart failure", "MSH_id": "D006333"}
+{"name": "hepatoblastoma", "MSH_id": "D018197"}
+{"name": "uterine cancer", "MSH_id": "D014594"}
+{"name": "brain cancer", "MSH_id": "D001932"}
+{"name": "ventricular tachycardia", "MSH_id": "D017180"}
+{"name": "necatoriasis", "MSH_id": "D009332"}
+{"name": "catatonia", "MSH_id": "D002389"}
+{"name": "postoperative complications", "MSH_id": "D011183"}
+{"name": "thyroid carcinoma", "MSH_id": "D013964"}
+{"name": "hyperprolactinemia", "MSH_id": "D006966"}
+{"name": "angioedema", "MSH_id": "D000799"}
+{"name": "congenital adrenal hyperplasia", "MSH_id": "D000312"}
+{"name": "lupus nephritis", "MSH_id": "D008181"}
+{"name": "plasmablastic lymphoma", "MSH_id": "D000069293"}
+{"name": "epilepsy", "MSH_id": "D004827"}
+{"name": "hypotension", "MSH_id": "D007022"}
+{"name": "dementia", "MSH_id": "D003704"}
+{"name": "patent ductus arteriosus", "MSH_id": "D004374"}
+{"name": "restless legs syndrome", "MSH_id": "D012148"}
+{"name": "cutaneous candidiasis", "MSH_id": "D002179"}
+{"name": "alcoholic neuropathy", "MSH_id": "D020269"}
+{"name": "Cor pulmonale", "MSH_id": "D011660"}
+{"name": "Ophthalmic zoster", "MSH_id": "D006563"}
+{"name": "atrial fibrillation", "MSH_id": "D001281"}
+{"name": "hyperthermia", "MSH_id": "D000084462"}
+{"name": "kidney cancer", "MSH_id": "D007680"}
+{"name": "Klinefelter's syndrome", "MSH_id": "D007713"}
+{"name": "pituitary carcinoma", "MSH_id": "D010911"}
+{"name": "intracranial hypertension", "MSH_id": "D019586"}
+{"name": "ocular hypertension", "MSH_id": "D009798"}
+{"name": "short bowel syndrome", "MSH_id": "D012778"}
+{"name": "stomach cancer", "MSH_id": "D013274"}
+{"name": "stomach disease", "MSH_id": "D013272"}
+{"name": "hemorrhoid", "MSH_id": "D006484"}
+{"name": "Zollinger\u2013Ellison syndrome", "MSH_id": "D015043"}
+{"name": "inflammatory myopathy", "MSH_id": "D009220"}
+{"name": "heroin dependence", "MSH_id": "D006556"}
+{"name": "sleep disorder", "MSH_id": "D012893"}
+{"name": "bile duct carcinoma", "MSH_id": "D001650"}
+{"name": "neuroblastoma", "MSH_id": "D009447"}
+{"name": "acropustulosis", "MSH_id": "D011565"}
+{"name": "candidiasis", "MSH_id": "D002177"}
+{"name": "thrombocytopenia", "MSH_id": "D013921"}
+{"name": "focal epilepsy", "MSH_id": "D004828"}
+{"name": "postpartum depression", "MSH_id": "D019052"}
+{"name": "photodermatitis", "MSH_id": "D010787"}
+{"name": "AIDS dementia complex", "MSH_id": "D015526"}
+{"name": "cystinosis", "MSH_id": "D003554"}
+{"name": "pachyonychia congenita", "MSH_id": "D053549"}
+{"name": "anorexia", "MSH_id": "D000855"}
+{"name": "testicular disease", "MSH_id": "D013733"}
+{"name": "prostate disease", "MSH_id": "D011469"}
+{"name": "obesity", "MSH_id": "D009765"}
+{"name": "periodontitis", "MSH_id": "D010518"}
+{"name": "peptic ulcer disease", "MSH_id": "D010437"}
+{"name": "contact dermatitis", "MSH_id": "D003877"}
+{"name": "fibromyalgia", "MSH_id": "D005356"}
+{"name": "temporal lobe epilepsy", "MSH_id": "D004833"}
+{"name": "cardiomyopathy", "MSH_id": "D009202"}
+{"name": "Crimean-Congo hemorrhagic fever", "MSH_id": "D003225"}
+{"name": "nasopharyngitis", "MSH_id": "D009304"}
+{"name": "peroneal nerve paralysis", "MSH_id": "D020427"}
+{"name": "spastic monoplegia", "MSH_id": "D018437"}
+{"name": "enuresis", "MSH_id": "D004775"}
+{"name": "leishmaniasis", "MSH_id": "D007896"}
+{"name": "nasal polyps", "MSH_id": "D009298"}
+{"name": "hypogonadism", "MSH_id": "D007006"}
+{"name": "bronchopulmonary dysplasia", "MSH_id": "D001997"}
+{"name": "spinal cord injury", "MSH_id": "D013119"}
+{"name": "pain", "MSH_id": "D010146"}
+{"name": "Gaucher's disease", "MSH_id": "D005776"}
+{"name": "Wilson disease", "MSH_id": "D006527"}
+{"name": "bladder neck obstruction", "MSH_id": "D001748"}
+{"name": "glaucoma", "MSH_id": "D005901"}
+{"name": "anal carcinoma", "MSH_id": "D001005"}
+{"name": "rosacea", "MSH_id": "D012393"}
+{"name": "lipid metabolism disorder", "MSH_id": "D052439"}
+{"name": "nephrotic syndrome", "MSH_id": "D009404"}
+{"name": "Herpes simplex virus meningoencephalitis", "MSH_id": "D020803"}
+{"name": "thrombotic microangiopathy", "MSH_id": "D057049"}
+{"name": "cystitis", "MSH_id": "D003556"}
+{"name": "musculoskeletal disorder", "MSH_id": "D009140"}
+{"name": "urethral obstruction", "MSH_id": "D014524"}
+{"name": "hyperlipoproteinemia type V", "MSH_id": "D006954"}
+{"name": "delayed puberty", "MSH_id": "D011628"}
+{"name": "neurodegeneration", "MSH_id": "D009410"}
+{"name": "benign mesothelioma", "MSH_id": "D018254"}
+{"name": "lymphoblastic leukemia", "MSH_id": "D054198"}
+{"name": "mouth disease", "MSH_id": "D009059"}
+{"name": "liver cirrhosis", "MSH_id": "D008103"}
+{"name": "Waldenstr\u00f6m's macroglobulinemia", "MSH_id": "D008258"}
+{"name": "lower back pain", "MSH_id": "D017116"}
+{"name": "pulmonary sarcoidosis", "MSH_id": "D017565"}
+{"name": "Conn's syndrome", "MSH_id": "D006929"}
+{"name": "peroxisomal disease", "MSH_id": "D018901"}
+{"name": "vascular dementia", "MSH_id": "D015140"}
+{"name": "onychomycosis", "MSH_id": "D014009"}
+{"name": "alveolar rhabdomyosarcoma", "MSH_id": "D018232"}
+{"name": "dermatitis herpetiformis", "MSH_id": "D003874"}
+{"name": "cerebral edema", "MSH_id": "D001929"}
+{"name": "social phobia", "MSH_id": "D000072861"}
+{"name": "T-cell lymphoma", "MSH_id": "D016399"}
+{"name": "glycogen storage disease", "MSH_id": "D006008"}
+{"name": "impulse control disorder", "MSH_id": "D007174"}
+{"name": "fallopian tube carcinoma", "MSH_id": "D005185"}
+{"name": "Parkinson's disease", "MSH_id": "D010300"}
+{"name": "food allergy", "MSH_id": "D005512"}
+{"name": "photophobia", "MSH_id": "D020795"}
+{"name": "coronary artery disease", "MSH_id": "D003324"}
+{"name": "congenital adrenal hyperplasia due to 3 beta-hydroxysteroid dehydrogenase deficiency", "MSH_id": "C538236"}
+{"name": "cryptosporidiosis", "MSH_id": "D003457"}
+{"name": "cutaneous lupus erythematosus", "MSH_id": "D008178"}
+{"name": "closed head injury", "MSH_id": "D016489"}
+{"name": "cryoglobulinemia", "MSH_id": "D003449"}
+{"name": "connective tissue neoplasm", "MSH_id": "D009372"}
+{"name": "tyrosinemia type III", "MSH_id": "D020176"}
+{"name": "membranoproliferative glomerulonephritis", "MSH_id": "D015432"}
+{"name": "heart valve disease", "MSH_id": "D006349"}
+{"name": "personality disorder", "MSH_id": "D010554"}
+{"name": "primary biliary cirrhosis", "MSH_id": "D008105"}
+{"name": "iron overload", "MSH_id": "D019190"}
+{"name": "Churg-Strauss syndrome", "MSH_id": "D015267"}
+{"name": "multiple myeloma", "MSH_id": "D009101"}
+{"name": "cribriform carcinoma", "MSH_id": "D000230"}
+{"name": "seborrhoeic dermatitis", "MSH_id": "D012628"}
+{"name": "prostatic hypertrophy", "MSH_id": "D011470"}
+{"name": "subarachnoid hemorrhage", "MSH_id": "D013345"}
+{"name": "spindle cell sarcoma", "MSH_id": "D012509"}
+{"name": "renal cell carcinoma", "MSH_id": "D002292"}
+{"name": "ectopic pregnancy", "MSH_id": "D011271"}
+{"name": "rhabdomyosarcoma", "MSH_id": "D012208"}
+{"name": "cystoid macular edema", "MSH_id": "D008269"}
+{"name": "malignant pleural mesothelioma", "MSH_id": "D000086002"}
+{"name": "Cushing's syndrome", "MSH_id": "D003480"}
+{"name": "lipedema", "MSH_id": "D065134"}
+{"name": "esophageal cancer", "MSH_id": "D004938"}
+{"name": "ascariasis", "MSH_id": "D001196"}
+{"name": "Plasma cell leukemia", "MSH_id": "D007952"}
+{"name": "lymphoma", "MSH_id": "D008223"}
+{"name": "schizophrenia", "MSH_id": "D012559"}
+{"name": "diabetic polyneuropathy", "MSH_id": "D003929"}
+{"name": "long QT syndrome", "MSH_id": "D008133"}
+{"name": "pelvic inflammatory diseases", "MSH_id": "D000292"}
+{"name": "Bartter disease", "MSH_id": "D001477"}
+{"name": "Erdheim-Chester disease", "MSH_id": "D031249"}
+{"name": "Addison's disease", "MSH_id": "D000224"}
+{"name": "multidrug-resistant tuberculosis", "MSH_id": "D018088"}
+{"name": "anterior uveitis", "MSH_id": "D014606"}
+{"name": "leg dermatosis", "MSH_id": "D007868"}
+{"name": "schizophreniform disorder", "MSH_id": "D011618"}
+{"name": "lice infestation", "MSH_id": "D010373"}
+{"name": "cyanosis", "MSH_id": "D003490"}
+{"name": "hepatitis C", "MSH_id": "D006526"}
+{"name": "splenic disease", "MSH_id": "D013158"}
+{"name": "Lewy body dementia", "MSH_id": "D020961"}
+{"name": "mycosis fungoides", "MSH_id": "D009182"}
+{"name": "desmoid disease", "MSH_id": "C535944"}
+{"name": "lipoid nephrosis", "MSH_id": "D009402"}
+{"name": "pancreatic ductal carcinoma", "MSH_id": "D021441"}
+{"name": "complex regional pain syndrome", "MSH_id": "D020918"}
+{"name": "eczematous skin disease", "MSH_id": "D017443"}
+{"name": "opioid use disorder", "MSH_id": "D009293"}
+{"name": "medial epicondylitis", "MSH_id": "D000070639"}
+{"name": "reactive arthritis", "MSH_id": "D016918"}
+{"name": "gastroparesis", "MSH_id": "D018589"}
+{"name": "otitis media", "MSH_id": "D010033"}
+{"name": "pulmonary embolism", "MSH_id": "D011655"}
+{"name": "lymph node tuberculosis", "MSH_id": "D014388"}
+{"name": "AIDS-related Kaposi's sarcoma", "MSH_id": "C554498"}
+{"name": "rheumatic fever", "MSH_id": "D012213"}
+{"name": "asthma", "MSH_id": "D001249"}
+{"name": "colorectal cancer", "MSH_id": "D015179"}
+{"name": "subependymal giant cell astrocytoma", "MSH_id": "D001254"}
+{"name": "seborrheic infantile dermatitis", "MSH_id": "C537005"}
+{"name": "visual epilepsy", "MSH_id": "D012640"}
+{"name": "chromosome 5q deletion syndrome", "MSH_id": "C535323"}
+{"name": "filariasis", "MSH_id": "D005368"}
+{"name": "toxoplasmosis", "MSH_id": "D014123"}
+{"name": "granuloma annulare", "MSH_id": "D016460"}
+{"name": "Mycobacterium avium-intracellulare infection", "MSH_id": "D015270"}
+{"name": "Aneurysmal bone cyst", "MSH_id": "D017824"}
+{"name": "Ewing's sarcoma", "MSH_id": "D012512"}
+{"name": "portal hypertension", "MSH_id": "D006975"}
+{"name": "Alzheimer's disease", "MSH_id": "D000544"}
+{"name": "hypercalcemia", "MSH_id": "D006934"}
+{"name": "amyotrophic lateral sclerosis", "MSH_id": "D000690"}
+{"name": "Raynaud disease", "MSH_id": "D011928"}
+{"name": "malaria", "MSH_id": "D008288"}
+{"name": "macular retinal edema", "MSH_id": "D008269"}
+{"name": "precursor T-cell acute lymphoblastic leukemia", "MSH_id": "D054218"}
+{"name": "non-small-cell lung carcinoma", "MSH_id": "D002289"}
+{"name": "mansonelliasis", "MSH_id": "D008368"}
+{"name": "thyrotoxicosis", "MSH_id": "D013971"}
+{"name": "urticaria", "MSH_id": "D014581"}
+{"name": "conduct disorder", "MSH_id": "D019955"}
+{"name": "brucellosis", "MSH_id": "D002006"}
+{"name": "narcolepsy", "MSH_id": "D009290"}
+{"name": "intermittent explosive disorder", "MSH_id": "D007174"}
+{"name": "brain diseases", "MSH_id": "D001927"}
+{"name": "laryngitis", "MSH_id": "D007827"}
+{"name": "acute promyelocytic leukemia", "MSH_id": "D015473"}
+{"name": "anaplastic large-cell lymphoma", "MSH_id": "D017728"}
+{"name": "enteritis", "MSH_id": "D004751"}
+{"name": "rhinitis", "MSH_id": "D012220"}
+{"name": "rheumatoid arthritis", "MSH_id": "D001172"}
+{"name": "polyarthritis", "MSH_id": "D001168"}
+{"name": "Microscopic polyangiitis", "MSH_id": "D055953"}
+{"name": "pneumococcal infection", "MSH_id": "D011008"}
+{"name": "acromegaly", "MSH_id": "D000172"}
+{"name": "anaplastic astrocytoma", "MSH_id": "D001254"}
+{"name": "atopic dermatitis", "MSH_id": "D003876"}
+{"name": "spasticity", "MSH_id": "D009128"}
+{"name": "mucopolysaccharidosis I", "MSH_id": "D008059"}
+{"name": "common wart", "MSH_id": "D014860"}
+{"name": "paroxysmal nocturnal hemoglobinuria", "MSH_id": "D006457"}
+{"name": "sepsis", "MSH_id": "D018805"}
+{"name": "stomatitis", "MSH_id": "D013280"}
+{"name": "uterine disease", "MSH_id": "D014591"}
+{"name": "head and neck squamous cell carcinoma", "MSH_id": "D000077195"}
+{"name": "oppositional defiant disorder", "MSH_id": "D000096865"}
+{"name": "gastroesophageal reflux disease", "MSH_id": "D005764"}
+{"name": "urethritis", "MSH_id": "D014526"}
+{"name": "rectum cancer", "MSH_id": "D012004"}
+{"name": "von Willebrand's disease", "MSH_id": "D014842"}
+{"name": "substance use disorder", "MSH_id": "D019966"}
+{"name": "follicular lymphoma", "MSH_id": "D008224"}
+{"name": "COVID-19", "MSH_id": "D000086382"}
+{"name": "lymphangioleiomyomatosis", "MSH_id": "D018192"}
+{"name": "periodontal disease", "MSH_id": "D010510"}
+{"name": "pituitary-dependent Cushing's disease", "MSH_id": "D047748"}
+{"name": "skin cancer", "MSH_id": "D012878"}
+{"name": "allergic rhinitis", "MSH_id": "D065631"}
+{"name": "mantle cell lymphoma", "MSH_id": "D020522"}
+{"name": "bronchus carcinoma", "MSH_id": "D002283"}
+{"name": "pericarditis", "MSH_id": "D010493"}
+{"name": "pityriasis versicolor", "MSH_id": "D014010"}
+{"name": "complex partial seizure", "MSH_id": "D012640"}
+{"name": "hypoplastic left heart syndrome", "MSH_id": "D018636"}
+{"name": "sigmoid disease", "MSH_id": "D012810"}
+{"name": "pharyngitis", "MSH_id": "D010612"}
+{"name": "bone disease", "MSH_id": "D001847"}
+{"name": "cystinuria", "MSH_id": "D003555"}
+{"name": "bradycardia", "MSH_id": "D001919"}
+{"name": "pellagra", "MSH_id": "D010383"}
+{"name": "basal-cell carcinoma", "MSH_id": "D002280"}
+{"name": "gastritis", "MSH_id": "D005756"}
+{"name": "congenital hypoplastic anemia", "MSH_id": "D029502"}
+{"name": "tetralogy of Fallot", "MSH_id": "D013771"}
+{"name": "optic neuritis", "MSH_id": "D009902"}
+{"name": "spinal stenosis", "MSH_id": "D013130"}
+{"name": "angle-closure glaucoma", "MSH_id": "D015812"}
+{"name": "ulcerative colitis", "MSH_id": "D003093"}
+{"name": "trigeminal neuralgia", "MSH_id": "D014277"}
+{"name": "Huntington disease", "MSH_id": "D006816"}
+{"name": "urinary retention", "MSH_id": "D016055"}
+{"name": "chronic fatigue syndrome", "MSH_id": "D015673"}
+{"name": "abscess", "MSH_id": "D000038"}
+{"name": "paracoccidioidomycosis", "MSH_id": "D010229"}
+{"name": "leukemia", "MSH_id": "D007938"}
+{"name": "neurological disorder", "MSH_id": "D009422"}
+{"name": "postoperative nausea and vomiting", "MSH_id": "D020250"}
+{"name": "infant gynecomastia", "MSH_id": "D006177"}
+{"name": "sleep-wake disorder", "MSH_id": "D012893"}
+{"name": "early-onset Alzheimer's disease", "MSH_id": "D000544"}
+{"name": "opisthorchiasis", "MSH_id": "D009889"}
+{"name": "polycythemia vera", "MSH_id": "D011087"}
+{"name": "gout", "MSH_id": "D006073"}
+{"name": "bullous pemphigoid", "MSH_id": "D010391"}
+{"name": "acute coronary syndrome", "MSH_id": "D054058"}
+{"name": "psoriasis-related juvenile idiopathic arthritis", "MSH_id": "D001171"}
+{"name": "Merkel cell carcinoma", "MSH_id": "D015266"}
+{"name": "transitional cell carcinoma", "MSH_id": "D002295"}
+{"name": "renal clear cell carcinoma", "MSH_id": "D002292"}
+{"name": "chronic primary adrenal insufficiency", "MSH_id": "D000224"}
+{"name": "megaloblastic anemia", "MSH_id": "D000749"}
+{"name": "Cytomegalovirus retinitis", "MSH_id": "D017726"}
+{"name": "post-traumatic stress disorder", "MSH_id": "D013313"}
+{"name": "substance abuse", "MSH_id": "D019966"}
+{"name": "swine influenza", "MSH_id": "D009976"}
+{"name": "mucopolysaccharidosis II", "MSH_id": "D016532"}
+{"name": "cough", "MSH_id": "D003371"}
+{"name": "allergic bronchopulmonary aspergillosis", "MSH_id": "D001229"}
+{"name": "otitis", "MSH_id": "D010033"}
+{"name": "bubonic plague", "MSH_id": "D010930"}
+{"name": "colon adenocarcinoma", "MSH_id": "D003110"}
+{"name": "sinusitis", "MSH_id": "D012852"}
+{"name": "Serratia infection", "MSH_id": "D016868"}
+{"name": "frontal lobe epilepsy", "MSH_id": "D017034"}
+{"name": "meningitis", "MSH_id": "D008581"}
+{"name": "corneal ulcer", "MSH_id": "D003320"}
+{"name": "chromoblastomycosis", "MSH_id": "D002862"}
+{"name": "hiccups", "MSH_id": "D006606"}
+{"name": "relapsing polychondritis", "MSH_id": "D011081"}
+{"name": "neuroblastoma", "MSH_id": "D009447"}
+{"name": "intellectual disability", "MSH_id": "D008607"}
+{"name": "carcinoid tumor", "MSH_id": "D002276"}
+{"name": "opportunistic infection", "MSH_id": "D009894"}
+{"name": "infertility", "MSH_id": "D007246"}
+{"name": "onchocerciasis", "MSH_id": "D009855"}
+{"name": "phaeochromocytoma", "MSH_id": "D010673"}
+{"name": "amebiasis", "MSH_id": "D000562"}
+{"name": "bleeding", "MSH_id": "D006470"}
+{"name": "actinomycosis", "MSH_id": "D000196"}
+{"name": "heartburn", "MSH_id": "D006356"}
+{"name": "T-cell prolymphocytic leukemia", "MSH_id": "D015461"}
+{"name": "major depressive disorders", "MSH_id": "D003865"}
+{"name": "essential thrombocytosis", "MSH_id": "D013920"}
+{"name": "colonic disease", "MSH_id": "D003108"}
+{"name": "hypogonadism", "MSH_id": "D007006"}
+{"name": "relapsing-remitting multiple sclerosis", "MSH_id": "D020529"}
+{"name": "inappropriate ADH syndrome", "MSH_id": "D007177"}
+{"name": "familial hypercholesterolemia", "MSH_id": "D006938"}
+{"name": "ischaemic heart disease", "MSH_id": "D003324"}
+{"name": "Myoclonic epilepsy", "MSH_id": "D004831"}
+{"name": "facial dermatosis", "MSH_id": "D005148"}
+{"name": "iridocyclitis", "MSH_id": "D015863"}
+{"name": "large intestine cancer", "MSH_id": "D015179"}
+{"name": "cryptococcosis", "MSH_id": "D003453"}
+{"name": "epididymitis", "MSH_id": "D004823"}
+{"name": "chronic hepatitis B", "MSH_id": "D019694"}
+{"name": "tuberous sclerosis 1", "MSH_id": "C565346"}
+{"name": "microscopic colitis", "MSH_id": "D046728"}
+{"name": "Beh\u00e7et's disease", "MSH_id": "D001528"}
+{"name": "liver disease", "MSH_id": "D008107"}
+{"name": "IgA glomerulonephritis", "MSH_id": "D005922"}
+{"name": "plantar fasciitis", "MSH_id": "D036981"}
+{"name": "tonsillitis", "MSH_id": "D014069"}
+{"name": "anorexia nervosa", "MSH_id": "D000856"}
+{"name": "peptic esophagitis", "MSH_id": "D004942"}
+{"name": "agranulocytosis", "MSH_id": "D000380"}
+{"name": "myocardial infarction", "MSH_id": "D009203"}
+{"name": "postencephalitic Parkinson disease", "MSH_id": "D010301"}
+{"name": "sickle-cell disease", "MSH_id": "D000755"}
+{"name": "thymus cancer", "MSH_id": "D013953"}
+{"name": "essential hypertension", "MSH_id": "D000075222"}
+{"name": "open-angle glaucoma", "MSH_id": "D005902"}
+{"name": "schizoaffective disorder", "MSH_id": "D011618"}
+{"name": "arterial occlusive disease", "MSH_id": "D001157"}
+{"name": "inflammatory bowel diseases", "MSH_id": "D015212"}
+{"name": "cardiac asthma", "MSH_id": "D004418"}
+{"name": "infantile epileptic encephalopathy", "MSH_id": "C567924"}
+{"name": "testicular cancer", "MSH_id": "D013736"}
+{"name": "postmenopausal osteoporosis", "MSH_id": "D015663"}
+{"name": "Duchenne muscular dystrophy", "MSH_id": "D020388"}
+{"name": "status asthmaticus", "MSH_id": "D013224"}
+{"name": "essential tremor", "MSH_id": "D020329"}
+{"name": "attention deficit hyperactivity disorder", "MSH_id": "D001289"}
+{"name": "cryptococcal meningitis", "MSH_id": "D016919"}
+{"name": "Kawasaki disease", "MSH_id": "D009080"}
+{"name": "hypersomnia", "MSH_id": "D006970"}
+{"name": "membranous glomerulonephritis", "MSH_id": "D015433"}
+{"name": "Sj\u00f6gren's syndrome", "MSH_id": "D012859"}
+{"name": "diabetes mellitus", "MSH_id": "D003920"}

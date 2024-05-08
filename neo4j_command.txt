@@ -1,0 +1,65 @@
+// The first Cypher block is for investigative Neo4j project and not for PyG. I used this project to figure out which level of MOA is good as a drug feature
+
+CREATE CONSTRAINT condition_index IF NOT EXISTS FOR (c:Condition) REQUIRE c.id IS UNIQUE
+;
+CREATE CONSTRAINT medicine_index IF NOT EXISTS FOR (m:Medicine) REQUIRE m.id IS UNIQUE
+;
+
+
+LOAD CSV WITH HEADERS FROM 'file:///disease.tsv' AS row FIELDTERMINATOR '\t'  MERGE (p1:Condition {id: row.MSH_id, name: row.name}) 
+;
+
+LOAD CSV WITH HEADERS FROM 'file:///drug.tsv' AS row FIELDTERMINATOR '\t'  MERGE (p1:Medicine {id: row.RXNORM_id, name: row.name, moa: split(coalesce(row.moa, ''), '|'),  parents: split(coalesce(row.parents, ''), '|'), physiological_effect: split(coalesce(row.pe, ''), '|')}) 
+;
+
+
+LOAD CSV WITH HEADERS FROM 'file:///disease_disease.tsv' AS row FIELDTERMINATOR '\t'  MERGE (p1:Condition {id: row.from}) MERGE (p2:Condition {id: row.to}) MERGE (p1)-[r:BELONGS_TO]->(p2)
+;
+
+LOAD CSV WITH HEADERS FROM 'file:///disease_drug.tsv' AS row FIELDTERMINATOR '\t'  MERGE (p1:Condition {id: row.from}) MERGE (p2:Medicine {id: row.to}) MERGE (p1)-[r:MAY_BE_TREATED_BY]->(p2)
+;
+
+
+
+MATCH (n)
+DETACH DELETE n;
+
+
+SHOW CONSTRAINT;
+
+DROP CONSTRAINT condition_index
+;
+DROP CONSTRAINT medicine_index
+;
+DROP CONSTRAINT category_index
+;
+
+
+// This second block of Cypher is for pyg graph visualization
+
+
+CREATE CONSTRAINT condition_index IF NOT EXISTS FOR (c:Condition) REQUIRE c.id IS UNIQUE
+;
+CREATE CONSTRAINT medicine_index IF NOT EXISTS FOR (m:Medicine) REQUIRE m.id IS UNIQUE
+;
+
+
+LOAD CSV WITH HEADERS FROM 'file:///disease_category.tsv' AS row FIELDTERMINATOR '\t'  MERGE (p1:Condition {id: row.id, name: row.name, categories: split(coalesce(row.categories, ''), '|')}) 
+;
+
+LOAD CSV WITH HEADERS FROM 'file:///drug.tsv' AS row FIELDTERMINATOR '\t'  MERGE (p1:Medicine {id: row.RXNORM_id, name: row.name, moa: split(coalesce(row.moa, ''), '|'),  parents: split(coalesce(row.parents, ''), '|'), physiological_effect: split(coalesce(row.pe, ''), '|')}) 
+;
+
+
+LOAD CSV WITH HEADERS FROM 'file:///disease_drug.tsv' AS row FIELDTERMINATOR '\t'  MERGE (p1:Condition {id: row.from}) MERGE (p2:Medicine {id: row.to}) MERGE (p1)-[r:MAYBE_TREATED_BY]->(p2)
+;
+
+
+
+
+MATCH (n:Condition) WHERE n.name = "Sinusitis"  WITH n MATCH (d:Medicine) WHERE d.name = "chloramphenicol" RETURN n, d
+
+
+
+MATCH (n:Condition) WHERE n.name = "Hand Dermatoses"  WITH n MATCH (d:Medicine) WHERE d.name = "lanreotide acetate" RETURN n, d
+

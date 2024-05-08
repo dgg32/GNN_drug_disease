@@ -1,0 +1,1161 @@
+MSH_id	name
+D002292	Carcinoma, Renal Cell
+D000230	Adenocarcinoma
+D007680	Kidney Neoplasms
+D002277	Carcinoma
+D014571	Urologic Neoplasms
+D007674	Kidney Diseases
+D009375	Neoplasms, Glandular and Epithelial
+D014565	Urogenital Neoplasms
+D014570	Urologic Diseases
+D009370	Neoplasms by Histologic Type
+D052776	Female Urogenital Diseases
+D052801	Male Urogenital Diseases
+D000091642	Urogenital Diseases
+D009371	Neoplasms by Site
+D009369	Neoplasms
+D005261	Female Urogenital Diseases and Pregnancy Complications
+U000006	Diseases (MeSH Category)
+U000019	Topical Descriptor
+U000017	MeSH Descriptors
+D011928	Raynaud Disease
+D000090122	Livedoid Vasculopathy
+D016491	Peripheral Vascular Diseases
+D017445	Skin Diseases, Vascular
+D013927	Thrombosis
+D014652	Vascular Diseases
+D012871	Skin Diseases
+D016769	Embolism and Thrombosis
+D002318	Cardiovascular Diseases
+D017437	Skin and Connective Tissue Diseases
+D004381	Duodenal Ulcer
+D010437	Peptic Ulcer
+D004378	Duodenal Diseases
+D013272	Stomach Diseases
+D007410	Intestinal Diseases
+D005767	Gastrointestinal Diseases
+D004066	Digestive System Diseases
+D016540	Smoking Cessation
+D015438	Health Behavior
+D001519	Behavior
+D001520	Behavior and Behavior Mechanisms
+U000014	Psychiatry and Psychology (MeSH Category)
+D017180	Tachycardia, Ventricular
+D013610	Tachycardia
+D000075224	Cardiac Conduction System Disease
+D001145	Arrhythmias, Cardiac
+D006331	Heart Diseases
+D010335	Pathologic Processes
+D013568	Pathological Conditions, Signs and Symptoms
+D055752	Small Cell Lung Carcinoma
+D002283	Carcinoma, Bronchogenic
+D001984	Bronchial Neoplasms
+D008175	Lung Neoplasms
+D001982	Bronchial Diseases
+D012142	Respiratory Tract Neoplasms
+D008171	Lung Diseases
+D012140	Respiratory Tract Diseases
+D013899	Thoracic Neoplasms
+D056844	Renal Colic
+D010146	Pain
+D012816	Signs and Symptoms
+D012677	Sensation
+D009461	Neurologic Manifestations
+D009424	Nervous System Physiological Phenomena
+D011603	Psychophysiology
+D009422	Nervous System Diseases
+D055687	Musculoskeletal and Neural Physiological Phenomena
+D001525	Behavioral Sciences
+D011579	Psychological Phenomena
+D010827	Physiology
+U000004	Phenomena and Processes (MeSH Category)
+D004191	Behavioral Disciplines and Activities
+D001690	Biological Science Disciplines
+D010811	Natural Science Disciplines
+U000013	Disciplines and Occupations (MeSH Category)
+D010149	Pain, Postoperative
+D011183	Postoperative Complications
+D020370	Osteoarthritis, Knee
+D010003	Osteoarthritis
+D001168	Arthritis
+D012216	Rheumatic Diseases
+D007592	Joint Diseases
+D003240	Connective Tissue Diseases
+D009140	Musculoskeletal Diseases
+D001172	Arthritis, Rheumatoid
+D001327	Autoimmune Diseases
+D007154	Immune System Diseases
+D003424	Crohn Disease
+D015212	Inflammatory Bowel Diseases
+D005759	Gastroenteritis
+D013262	Stevens-Johnson Syndrome
+D006968	Hypersensitivity, Delayed
+D004892	Erythema Multiforme
+D003875	Drug Eruptions
+D013280	Stomatitis
+D006967	Hypersensitivity
+D004890	Erythema
+D012872	Skin Diseases, Vesiculobullous
+D004342	Drug Hypersensitivity
+D003872	Dermatitis
+D009059	Mouth Diseases
+D012877	Skin Manifestations
+D064420	Drug-Related Side Effects and Adverse Reactions
+D009057	Stomatognathic Diseases
+D064419	Chemically-Induced Disorders
+D013282	Stomatitis, Denture
+D012393	Rosacea
+D010032	Otitis Externa
+D010031	Otitis
+D004427	Ear Diseases
+D010038	Otorhinolaryngologic Diseases
+D013180	Sprains and Strains
+D014947	Wounds and Injuries
+D015658	HIV Infections
+D007153	Immunologic Deficiency Syndromes
+D016180	Lentivirus Infections
+D015229	Sexually Transmitted Diseases, Viral
+D000086982	Blood-Borne Infections
+D012192	Retroviridae Infections
+D014777	Virus Diseases
+D012749	Sexually Transmitted Diseases
+D003141	Communicable Diseases
+D012327	RNA Virus Infections
+D007239	Infections
+D000091662	Genital Diseases
+D020969	Disease Attributes
+D012772	Shock, Septic
+D018746	Systemic Inflammatory Response Syndrome
+D018805	Sepsis
+D007249	Inflammation
+D012769	Shock
+D013585	Synovitis
+D013224	Status Asthmaticus
+D001249	Asthma
+D008173	Lung Diseases, Obstructive
+D012130	Respiratory Hypersensitivity
+D006969	Hypersensitivity, Immediate
+D000152	Acne Vulgaris
+D017486	Acneiform Eruptions
+D012625	Sebaceous Gland Diseases
+D000172	Acromegaly
+D006964	Hyperpituitarism
+D001849	Bone Diseases, Endocrine
+D010900	Pituitary Diseases
+D004700	Endocrine System Diseases
+D001847	Bone Diseases
+D007027	Hypothalamic Diseases
+D001927	Brain Diseases
+D002493	Central Nervous System Diseases
+D016889	Endometrial Neoplasms
+D014594	Uterine Neoplasms
+D005833	Genital Neoplasms, Female
+D014591	Uterine Diseases
+D005831	Genital Diseases, Female
+D008881	Migraine Disorders
+D051270	Headache Disorders, Primary
+D020773	Headache Disorders
+D011018	Pneumonia, Pneumococcal
+D018410	Pneumonia, Bacterial
+D011008	Pneumococcal Infections
+D001424	Bacterial Infections
+D011014	Pneumonia
+D013290	Streptococcal Infections
+D001423	Bacterial Infections and Mycoses
+D012141	Respiratory Tract Infections
+D016908	Gram-Positive Bacterial Infections
+D000775	Anesthesia, Spinal
+D000765	Anesthesia, Conduction
+D000758	Anesthesia
+D000760	Anesthesia and Analgesia
+U000001	Analytical, Diagnostic and Therapeutic Techniques and Equipment (MeSH Category)
+D000086722	Rhinorrhea
+D012818	Signs and Symptoms, Respiratory
+D000080223	Chronic Urticaria
+D002908	Chronic Disease
+D014581	Urticaria
+D013313	Stress Disorders, Post-Traumatic
+D040921	Stress Disorders, Traumatic
+D000068099	Trauma and Stressor Related Disorders
+D001523	Mental Disorders
+D003924	Diabetes Mellitus, Type 2
+D003920	Diabetes Mellitus
+D044882	Glucose Metabolism Disorders
+D008659	Metabolic Diseases
+D009750	Nutritional and Metabolic Diseases
+D011655	Pulmonary Embolism
+D004617	Embolism
+D014397	Tuberculosis, Pulmonary
+D014376	Tuberculosis
+D009164	Mycobacterium Infections
+D000193	Actinomycetales Infections
+D011349	Proctitis
+D012002	Rectal Diseases
+D007751	Labor, Induced
+D036861	Delivery, Obstetric
+D013513	Obstetric Surgical Procedures
+D013514	Surgical Procedures, Operative
+D009293	Opioid-Related Disorders
+D000079524	Narcotic-Related Disorders
+D019966	Substance-Related Disorders
+D000072861	Phobia, Social
+D010698	Phobic Disorders
+D001008	Anxiety Disorders
+D009290	Narcolepsy
+D006970	Disorders of Excessive Somnolence
+D020919	Sleep Disorders, Intrinsic
+D020920	Dyssomnias
+D012893	Sleep Wake Disorders
+D003554	Cystinosis
+D016464	Lysosomal Storage Diseases
+D008661	Metabolism, Inborn Errors
+D030342	Genetic Diseases, Inborn
+D009358	Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+D012221	Rhinitis, Allergic, Perennial
+D065631	Rhinitis, Allergic
+D012220	Rhinitis
+D009668	Nose Diseases
+D013345	Subarachnoid Hemorrhage
+D020300	Intracranial Hemorrhages
+D006470	Hemorrhage
+D002561	Cerebrovascular Disorders
+D012559	Schizophrenia
+D019967	Schizophrenia Spectrum and Other Psychotic Disorders
+D009335	Necrobiosis Lipoidica
+D017441	Necrobiotic Disorders
+D012875	Skin Diseases, Metabolic
+D003095	Collagen Diseases
+D010518	Periodontitis
+D010510	Periodontal Diseases
+D020961	Lewy Body Disease
+D003704	Dementia
+D020734	Parkinsonian Disorders
+D000080874	Synucleinopathies
+D019965	Neurocognitive Disorders
+D001480	Basal Ganglia Diseases
+D009069	Movement Disorders
+D057165	Proteostasis Deficiencies
+D019636	Neurodegenerative Diseases
+D004828	Epilepsies, Partial
+D004827	Epilepsy
+D000081029	Pulmonary Arterial Hypertension
+D006976	Hypertension, Pulmonary
+D006973	Hypertension
+D009182	Mycosis Fungoides
+D016410	Lymphoma, T-Cell, Cutaneous
+D016399	Lymphoma, T-Cell
+D008228	Lymphoma, Non-Hodgkin
+D008223	Lymphoma
+D008232	Lymphoproliferative Disorders
+D007160	Immunoproliferative Disorders
+D008206	Lymphatic Diseases
+D006425	Hemic and Lymphatic Diseases
+D020528	Multiple Sclerosis, Chronic Progressive
+D009103	Multiple Sclerosis
+D020278	Demyelinating Autoimmune Diseases, CNS
+D003711	Demyelinating Diseases
+D020274	Autoimmune Diseases of the Nervous System
+D056784	Leukoencephalopathies
+D007644	Darier Disease
+D012873	Skin Diseases, Genetic
+D007642	Keratosis
+D007638	Keratoconjunctivitis Sicca
+D015352	Dry Eye Syndromes
+D007637	Keratoconjunctivitis
+D007766	Lacrimal Apparatus Diseases
+D003231	Conjunctivitis
+D007634	Keratitis
+D005128	Eye Diseases
+D003229	Conjunctival Diseases
+D003316	Corneal Diseases
+D012148	Restless Legs Syndrome
+D020447	Parasomnias
+D020329	Essential Tremor
+D010300	Parkinson Disease
+D005356	Fibromyalgia
+D009135	Muscular Diseases
+D009468	Neuromuscular Diseases
+D003093	Colitis, Ulcerative
+D003092	Colitis
+D003108	Colonic Diseases
+D003928	Diabetic Nephropathies
+D048909	Diabetes Complications
+D011087	Polycythemia Vera
+D019046	Bone Marrow Neoplasms
+D009196	Myeloproliferative Disorders
+D019337	Hematologic Neoplasms
+D001855	Bone Marrow Diseases
+D006402	Hematologic Diseases
+D000079689	Opioid-Induced Constipation
+D003248	Constipation
+D012817	Signs and Symptoms, Digestive
+D012507	Sarcoidosis
+D005776	Gaucher Disease
+D013106	Sphingolipidoses
+D020140	Lysosomal Storage Diseases, Nervous System
+D008064	Lipidoses
+D020739	Brain Diseases, Metabolic, Inborn
+D008052	Lipid Metabolism, Inborn Errors
+D001928	Brain Diseases, Metabolic
+D052439	Lipid Metabolism Disorders
+D013226	Status Epilepticus
+D012640	Seizures
+D004374	Ductus Arteriosus, Patent
+D006330	Heart Defects, Congenital
+D018376	Cardiovascular Abnormalities
+D000013	Congenital Abnormalities
+D017229	Enterobiasis
+D010123	Oxyuriasis
+D017194	Oxyurida Infections
+D017190	Secernentea Infections
+D009349	Nematode Infections
+D006373	Helminthiasis
+D010272	Parasitic Diseases
+D012213	Rheumatic Fever
+D009101	Multiple Myeloma
+D054219	Neoplasms, Plasma Cell
+D020141	Hemostatic Disorders
+D010265	Paraproteinemias
+D006474	Hemorrhagic Disorders
+D001796	Blood Protein Disorders
+D019694	Hepatitis B, Chronic
+D006509	Hepatitis B
+D006521	Hepatitis, Chronic
+D006525	Hepatitis, Viral, Human
+D018347	Hepadnaviridae Infections
+D006505	Hepatitis
+D004266	DNA Virus Infections
+D008107	Liver Diseases
+D006947	Hyperkalemia
+D014883	Water-Electrolyte Imbalance
+D001289	Attention Deficit Disorder with Hyperactivity
+D019958	Attention Deficit and Disruptive Behavior Disorders
+D065886	Neurodevelopmental Disorders
+D016066	Pleural Effusion, Malignant
+D010996	Pleural Effusion
+D010997	Pleural Neoplasms
+D010995	Pleural Diseases
+D000755	Anemia, Sickle Cell
+D006453	Hemoglobinopathies
+D000745	Anemia, Hemolytic, Congenital
+D000743	Anemia, Hemolytic
+D000740	Anemia
+D009091	Mucormycosis
+D020096	Zygomycosis
+D009181	Mycoses
+D013920	Thrombocythemia, Essential
+D013922	Thrombocytosis
+D001778	Blood Coagulation Disorders
+D001791	Blood Platelet Disorders
+D005902	Glaucoma, Open-Angle
+D005901	Glaucoma
+D009798	Ocular Hypertension
+D009230	Myxedema
+D007037	Hypothyroidism
+D017520	Mucinoses
+D013959	Thyroid Diseases
+D003865	Depressive Disorder, Major
+D003866	Depressive Disorder
+D019964	Mood Disorders
+D000690	Amyotrophic Lateral Sclerosis
+D057177	TDP-43 Proteinopathies
+D016472	Motor Neuron Disease
+D013118	Spinal Cord Diseases
+D013612	Tachycardia, Ectopic Atrial
+D013617	Tachycardia, Supraventricular
+D053206	Nocturnal Enuresis
+D004775	Enuresis
+D019960	Elimination Disorders
+D001526	Behavioral Symptoms
+D014555	Urination Disorders
+D014098	Toothache
+D005157	Facial Pain
+D014076	Tooth Diseases
+D011618	Psychotic Disorders
+D002179	Candidiasis, Cutaneous
+D003881	Dermatomycoses
+D002177	Candidiasis
+D012874	Skin Diseases, Infectious
+D000795	Fabry Disease
+D059345	Cerebral Small Vessel Diseases
+D040181	Genetic Diseases, X-Linked
+D034721	Mastocytosis, Systemic
+D008415	Mastocytosis
+D009372	Neoplasms, Connective Tissue
+D000090362	Mast Cell Activation Disorders
+D018204	Neoplasms, Connective and Soft Tissue
+D012778	Short Bowel Syndrome
+D008286	Malabsorption Syndromes
+D012883	Skin Ulcer
+D011317	Priapism
+D010409	Penile Diseases
+D005832	Genital Diseases, Male
+D000096003	Hypertensive Crisis
+D001749	Urinary Bladder Neoplasms
+D001745	Urinary Bladder Diseases
+D006560	Herpes Labialis
+D006561	Herpes Simplex
+D008047	Lip Diseases
+D006566	Herpesviridae Infections
+D017193	Skin Diseases, Viral
+D055756	Meningeal Carcinomatosis
+D008577	Meningeal Neoplasms
+D016543	Central Nervous System Neoplasms
+D009423	Nervous System Neoplasms
+D003555	Cystinuria
+D000608	Renal Aminoacidurias
+D015499	Renal Tubular Transport, Inborn Errors
+D012859	Sjogren's Syndrome
+D014987	Xerostomia
+D012466	Salivary Gland Diseases
+D048949	Labor Pain
+D015663	Osteoporosis, Postmenopausal
+D010024	Osteoporosis
+D001851	Bone Diseases, Metabolic
+D012373	Rocky Mountain Spotted Fever
+D000073605	Spotted Fever Group Rickettsiosis
+D017282	Tick-Borne Diseases
+D012282	Rickettsia Infections
+D000079426	Vector Borne Diseases
+D012288	Rickettsiaceae Infections
+D016905	Gram-Negative Bacterial Infections
+D015267	Churg-Strauss Syndrome
+D056648	Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis
+D006099	Granuloma
+D056647	Systemic Vasculitis
+D014657	Vasculitis
+D009902	Optic Neuritis
+D009901	Optic Nerve Diseases
+D003389	Cranial Nerve Diseases
+D000077195	Squamous Cell Carcinoma of Head and Neck
+D006258	Head and Neck Neoplasms
+D002294	Carcinoma, Squamous Cell
+D018307	Neoplasms, Squamous Cell
+D006949	Hyperlipidemias
+D050171	Dyslipidemias
+D020176	Tyrosinemias
+D000592	Amino Acid Metabolism, Inborn Errors
+D000741	Anemia, Aplastic
+D000080983	Bone Marrow Failure Disorders
+D000437	Alcoholism
+D019973	Alcohol-Related Disorders
+D009771	Obsessive-Compulsive Disorder
+D020513	Paralysis, Hyperkalemic Periodic
+D010245	Paralyses, Familial Periodic
+D008664	Metal Metabolism, Inborn Errors
+D012628	Dermatitis, Seborrheic
+D017444	Skin Diseases, Papulosquamous
+D017443	Skin Diseases, Eczematous
+D010229	Paracoccidioidomycosis
+D007177	Inappropriate ADH Syndrome
+D006527	Hepatolenticular Degeneration
+D020271	Heredodegenerative Disorders, Nervous System
+D011629	Puberty, Precocious
+D006058	Gonadal Disorders
+D002181	Candidiasis, Vulvovaginal
+D014848	Vulvovaginitis
+D014627	Vaginitis
+D014847	Vulvitis
+D014623	Vaginal Diseases
+D014845	Vulvar Diseases
+D003876	Dermatitis, Atopic
+D016532	Mucopolysaccharidosis II
+D038901	Mental Retardation, X-Linked
+D009083	Mucopolysaccharidoses
+D008607	Intellectual Disability
+D002239	Carbohydrate Metabolism, Inborn Errors
+D019954	Neurobehavioral Manifestations
+D016055	Urinary Retention
+D008059	Mucopolysaccharidosis I
+D003233	Conjunctivitis, Allergic
+D010051	Ovarian Neoplasms
+D004701	Endocrine Gland Neoplasms
+D010049	Ovarian Diseases
+D000291	Adnexal Diseases
+D007787	Lactose Intolerance
+D008595	Menorrhagia
+D014592	Uterine Hemorrhage
+D008599	Menstruation Disturbances
+D003371	Cough
+D012120	Respiration Disorders
+D000089202	Non-Radiographic Axial Spondyloarthritis
+D000089183	Axial Spondyloarthritis
+D025242	Spondylarthropathies
+D000844	Ankylosis
+D025241	Spondylarthritis
+D013166	Spondylitis
+D001850	Bone Diseases, Infectious
+D013122	Spinal Diseases
+D003480	Cushing Syndrome
+D000308	Adrenocortical Hyperfunction
+D000307	Adrenal Gland Diseases
+D018357	Respiratory Syncytial Virus Infections
+D018186	Pneumovirus Infections
+D018184	Paramyxoviridae Infections
+D018701	Mononegavirales Infections
+D015535	Arthritis, Psoriatic
+D011565	Psoriasis
+D016411	Lymphoma, T-Cell, Peripheral
+D016640	Diabetes, Gestational
+D011248	Pregnancy Complications
+D001932	Brain Neoplasms
+D009377	Multiple Endocrine Neoplasia
+D009378	Neoplasms, Multiple Primary
+D009386	Neoplastic Syndromes, Hereditary
+D043183	Irritable Bowel Syndrome
+D003109	Colonic Diseases, Functional
+D004832	Epilepsy, Absence
+D004829	Epilepsy, Generalized
+D000073376	Epileptic Syndromes
+D002280	Carcinoma, Basal Cell
+D018295	Neoplasms, Basal Cell
+D020388	Muscular Dystrophy, Duchenne
+D009136	Muscular Dystrophies
+D020966	Muscular Disorders, Atrophic
+D006467	Hemophilia A
+D025861	Blood Coagulation Disorders, Inherited
+D020147	Coagulation Protein Disorders
+D012552	Schistosomiasis
+D014201	Trematode Infections
+D003440	Croup
+D007827	Laryngitis
+D007818	Laryngeal Diseases
+D016781	Toxoplasmosis, Cerebral
+D020808	Central Nervous System Protozoal Infections
+D001922	Brain Abscess
+D014123	Toxoplasmosis
+D020807	Central Nervous System Parasitic Infections
+D011528	Protozoan Infections
+D002494	Central Nervous System Infections
+D000038	Abscess
+D003048	Coccidiosis
+D013492	Suppuration
+D001171	Arthritis, Juvenile
+D008105	Liver Cirrhosis, Biliary
+D002780	Cholestasis, Intrahepatic
+D008103	Liver Cirrhosis
+D002779	Cholestasis
+D005355	Fibrosis
+D001649	Bile Duct Diseases
+D001660	Biliary Tract Diseases
+D000090542	Homozygous Familial Hypercholesterolemia
+D006938	Hyperlipoproteinemia Type II
+D006951	Hyperlipoproteinemias
+D054990	Idiopathic Pulmonary Fibrosis
+D011658	Pulmonary Fibrosis
+D017563	Lung Diseases, Interstitial
+D008193	Lyme Disease
+D001899	Borrelia Infections
+D013145	Spirochaetales Infections
+D001321	Autistic Disorder
+D000067877	Autism Spectrum Disorder
+D002659	Child Development Disorders, Pervasive
+D000379	Agoraphobia
+D020514	Hypokalemic Periodic Paralysis
+D006646	Histiocytosis, Langerhans-Cell
+D015614	Histiocytosis
+D006940	Hyperemia
+D014390	Tuberculosis, Meningeal
+D020306	Tuberculosis, Central Nervous System
+D016920	Meningitis, Bacterial
+D020806	Central Nervous System Bacterial Infections
+D000092225	Tuberculosis, Extrapulmonary
+D008581	Meningitis
+D000090862	Neuroinflammatory Diseases
+D012173	Retinitis
+D012164	Retinal Diseases
+D014901	West Nile Fever
+D004671	Encephalitis, Arbovirus
+D018177	Flavivirus Infections
+D000096724	Mosquito-Borne Diseases
+D018792	Encephalitis, Viral
+D001102	Arbovirus Infections
+D018178	Flaviviridae Infections
+D000069544	Infectious Encephalitis
+D020805	Central Nervous System Viral Diseases
+D004660	Encephalitis
+D017681	Hypereosinophilic Syndrome
+D004802	Eosinophilia
+D007960	Leukocyte Disorders
+D011111	Polymyalgia Rheumatica
+D009497	Neurotic Disorders
+D005873	Giardiasis
+D007411	Intestinal Diseases, Parasitic
+D003693	Delirium
+D003221	Confusion
+D004415	Dyspepsia
+D006974	Hypertension, Malignant
+D013967	Thyroiditis, Autoimmune
+D013966	Thyroiditis
+D001750	Urinary Bladder, Neurogenic
+D001002	Anuria
+D029424	Pulmonary Disease, Chronic Obstructive
+D002544	Cerebral Infarction
+D020520	Brain Infarction
+D007238	Infarction
+D002545	Brain Ischemia
+D020521	Stroke
+D009336	Necrosis
+D007511	Ischemia
+D015451	Leukemia, Lymphocytic, Chronic, B-Cell
+D015448	Leukemia, B-Cell
+D007945	Leukemia, Lymphoid
+D007938	Leukemia
+D015523	Maxillary Sinusitis
+D012852	Sinusitis
+D010254	Paranasal Sinus Diseases
+D018783	Impotence, Vasculogenic
+D007172	Erectile Dysfunction
+D012735	Sexual Dysfunction, Physiological
+D020018	Sexual Dysfunctions, Psychological
+D015228	Hypertriglyceridemia
+D000647	Amnesia
+D008569	Memory Disorders
+D007877	Legionnaires' Disease
+D007876	Legionellosis
+D003234	Conjunctivitis, Bacterial
+D015818	Eye Infections, Bacterial
+D015817	Eye Infections
+D018278	Carcinoma, Neuroendocrine
+D018358	Neuroendocrine Tumors
+D017599	Neuroectodermal Tumors
+D009373	Neoplasms, Germ Cell and Embryonal
+D009380	Neoplasms, Nerve Tissue
+D014552	Urinary Tract Infections
+D011843	Radiculopathy
+D010523	Peripheral Nervous System Diseases
+D061218	Depressive Disorder, Treatment-Resistant
+D019578	Multiple System Atrophy
+D054969	Primary Dysautonomias
+D001342	Autonomic Nervous System Diseases
+D009450	Neurodermatitis
+D018273	Carcinoma, Islet Cell
+D010190	Pancreatic Neoplasms
+D004067	Digestive System Neoplasms
+D010182	Pancreatic Diseases
+D000724	Ancylostomiasis
+D006725	Hookworm Infections
+D017206	Strongylida Infections
+D014352	Trypanosomiasis
+D056986	Euglenozoa Infections
+D007500	Iritis
+D014606	Uveitis, Anterior
+D007499	Iris Diseases
+D015864	Panuveitis
+D014603	Uveal Diseases
+D014605	Uveitis
+D004604	Elephantiasis
+D008209	Lymphedema
+D001404	Babesiosis
+D011529	Protozoan Infections, Animal
+D010273	Parasitic Diseases, Animal
+D000820	Animal Diseases
+D001906	Botulism
+D020511	Neuromuscular Junction Diseases
+D005517	Foodborne Diseases
+D003015	Clostridium Infections
+D020258	Neurotoxicity Syndromes
+D011041	Poisoning
+D006528	Carcinoma, Hepatocellular
+D008113	Liver Neoplasms
+D012798	Sialorrhea
+D031901	Gestational Trophoblastic Disease
+D014328	Trophoblastic Neoplasms
+D011252	Pregnancy Complications, Neoplastic
+D000070636	Rotator Cuff Injuries
+D012421	Rupture
+D000070599	Shoulder Injuries
+D013708	Tendon Injuries
+D004696	Endocarditis
+D001991	Bronchitis
+D006962	Hyperparathyroidism, Secondary
+D006961	Hyperparathyroidism
+D010279	Parathyroid Diseases
+D001068	Feeding and Eating Disorders
+D007968	Leukoencephalopathy, Progressive Multifocal
+D027601	Polyomavirus Infections
+D012897	Slow Virus Diseases
+D001714	Bipolar Disorder
+D000068105	Bipolar and Related Disorders
+D012128	Respiratory Distress Syndrome
+D006689	Hodgkin Disease
+D004487	Edema
+D050723	Fractures, Bone
+D008258	Waldenstrom Macroglobulinemia
+D008303	Malignant Carcinoid Syndrome
+D002276	Carcinoid Tumor
+D016881	Microsporidiosis
+D018207	Angiomyolipoma
+D054973	Perivascular Epithelioid Cell Neoplasms
+D018205	Neoplasms, Adipose Tissue
+D013625	Takayasu Arteritis
+D001015	Aortic Arch Syndromes
+D001167	Arteritis
+D001018	Aortic Diseases
+D015175	Prolactinoma
+D010911	Pituitary Neoplasms
+D000236	Adenoma
+D007029	Hypothalamic Neoplasms
+D015173	Supratentorial Neoplasms
+D002178	Candidiasis, Chronic Mucocutaneous
+D003003	Clonorchiasis
+D013174	Sporotrichosis
+D017086	beta-Thalassemia
+D013789	Thalassemia
+D014141	Trachoma
+D002690	Chlamydia Infections
+D002694	Chlamydiaceae Infections
+D015231	Sexually Transmitted Diseases, Bacterial
+D000752	Anemia, Pernicious
+D000749	Anemia, Megaloblastic
+D014806	Vitamin B 12 Deficiency
+D000748	Anemia, Macrocytic
+D014804	Vitamin B Deficiency
+D001361	Avitaminosis
+D003677	Deficiency Diseases
+D044342	Malnutrition
+D009748	Nutrition Disorders
+D014062	Tongue Neoplasms
+D014060	Tongue Diseases
+D009062	Mouth Neoplasms
+D001228	Aspergillosis
+D001762	Blepharitis
+D005141	Eyelid Diseases
+D051436	Renal Insufficiency, Chronic
+D051437	Renal Insufficiency
+D015464	Leukemia, Myelogenous, Chronic, BCR-ABL Positive
+D007951	Leukemia, Myeloid
+D006432	Hemochromatosis
+D019190	Iron Overload
+D019189	Iron Metabolism Disorders
+D001017	Aortic Coarctation
+D016403	Lymphoma, Large B-Cell, Diffuse
+D016393	Lymphoma, B-Cell
+D001063	Appendiceal Neoplasms
+D002430	Cecal Neoplasms
+D002429	Cecal Diseases
+D007414	Intestinal Neoplasms
+D005770	Gastrointestinal Neoplasms
+D011472	Prostatitis
+D011469	Prostatic Diseases
+D000789	Angina, Unstable
+D000787	Angina Pectoris
+D002637	Chest Pain
+D017202	Myocardial Ischemia
+D011656	Pulmonary Emphysema
+D016751	Hepatitis E
+D004401	Dysarthria
+D001184	Articulation Disorders
+D013064	Speech Disorders
+D007806	Language Disorders
+D003147	Communication Disorders
+D000096762	Aberrant Motor Behavior in Dementia
+D009120	Muscle Cramp
+D020879	Neuromuscular Manifestations
+D011666	Pulmonary Valve Stenosis
+D006349	Heart Valve Diseases
+D014694	Ventricular Outflow Obstruction
+D013981	Tic Disorders
+D003047	Coccidioidomycosis
+D005891	Gingivitis
+D005882	Gingival Diseases
+D012516	Osteosarcoma
+D012509	Sarcoma
+D018213	Neoplasms, Bone Tissue
+D001883	Borderline Personality Disorder
+D010554	Personality Disorders
+D010689	Phlebitis
+D020821	Dystonic Disorders
+D006229	Hand Dermatoses
+D046152	Gastrointestinal Stromal Tumors
+D010954	Plasmacytoma
+D008088	Listeriosis
+D002761	Cholangitis
+D001282	Atrial Flutter
+D014435	Typhoid Fever
+D012480	Salmonella Infections
+D004756	Enterobacteriaceae Infections
+D011552	Pseudomonas Infections
+D006009	Glycogen Storage Disease Type II
+D006008	Glycogen Storage Disease
+D012175	Retinoblastoma
+D015785	Eye Diseases, Hereditary
+D019572	Retinal Neoplasms
+D018302	Neoplasms, Neuroepithelial
+D005134	Eye Neoplasms
+D005910	Glioma
+D006069	Gonorrhea
+D016870	Neisseriaceae Infections
+D014927	Wolff-Parkinson-White Syndrome
+D011226	Pre-Excitation Syndromes
+D006333	Heart Failure
+D018197	Hepatoblastoma
+D018193	Neoplasms, Complex and Mixed
+D009332	Necatoriasis
+D002389	Catatonia
+D013964	Thyroid Neoplasms
+D006966	Hyperprolactinemia
+D000799	Angioedema
+D000312	Adrenal Hyperplasia, Congenital
+D043202	Steroid Metabolism, Inborn Errors
+D047808	Adrenogenital Syndrome
+D012734	Disorders of Sex Development
+D014564	Urogenital Abnormalities
+D008181	Lupus Nephritis
+D005921	Glomerulonephritis
+D008180	Lupus Erythematosus, Systemic
+D009393	Nephritis
+D000069293	Plasmablastic Lymphoma
+D007022	Hypotension
+D020269	Alcoholic Neuropathy
+D020268	Alcohol-Induced Disorders, Nervous System
+D011115	Polyneuropathies
+D020751	Alcohol-Induced Disorders
+D011660	Pulmonary Heart Disease
+D006563	Herpes Zoster Ophthalmicus
+D006562	Herpes Zoster
+D015828	Eye Infections, Viral
+D000073618	Varicella Zoster Virus Infection
+D001281	Atrial Fibrillation
+D000084462	Hyperthermia
+D018882	Heat Stress Disorders
+D001832	Body Temperature Changes
+D007713	Klinefelter Syndrome
+D007006	Hypogonadism
+D058533	Sex Chromosome Disorders of Sex Development
+D025064	Sex Chromosome Disorders
+D025063	Chromosome Disorders
+D019586	Intracranial Hypertension
+D013274	Stomach Neoplasms
+D006484	Hemorrhoids
+D015043	Zollinger-Ellison Syndrome
+D009384	Paraneoplastic Endocrine Syndromes
+D010257	Paraneoplastic Syndromes
+D009220	Myositis
+D006556	Heroin Dependence
+D001650	Bile Duct Neoplasms
+D001661	Biliary Tract Neoplasms
+D009447	Neuroblastoma
+D018241	Neuroectodermal Tumors, Primitive, Peripheral
+D018242	Neuroectodermal Tumors, Primitive
+D013921	Thrombocytopenia
+D000095542	Cytopenia
+D019052	Depression, Postpartum
+D011644	Puerperal Disorders
+D010787	Photosensitivity Disorders
+D015526	AIDS Dementia Complex
+D053549	Pachyonychia Congenita
+D004476	Ectodermal Dysplasia
+D009260	Nail Diseases
+D012868	Skin Abnormalities
+D000015	Abnormalities, Multiple
+D000855	Anorexia
+D013733	Testicular Diseases
+D009765	Obesity
+D050177	Overweight
+D044343	Overnutrition
+D001835	Body Weight
+D000067029	Physical Appearance, Body
+D049628	Body Size
+D001824	Body Constitution
+D006128	Growth
+D001837	Body Weights and Measures
+D010829	Physiological Phenomena
+D010808	Physical Examination
+D048788	Growth and Development
+D000886	Anthropometry
+D019937	Diagnostic Techniques and Procedures
+D001699	Biometry
+D008919	Investigative Techniques
+D003933	Diagnosis
+D013223	Statistics as Topic
+D015991	Epidemiologic Measurements
+D004812	Epidemiologic Methods
+D017531	Health Care Evaluation Mechanisms
+D008433	Mathematics
+D011634	Public Health
+D011787	Quality of Health Care
+D006262	Health
+D004778	Environment and Public Health
+D008511	Medicine
+D006298	Health Services Administration
+D017530	Health Care Quality, Access, and Evaluation
+D011154	Population Characteristics
+U000008	Health Care (MeSH Category)
+D006281	Health Occupations
+D003877	Dermatitis, Contact
+D004833	Epilepsy, Temporal Lobe
+D009202	Cardiomyopathies
+D003225	Hemorrhagic Fever Virus, Crimean-Congo
+D016855	Nairovirus
+D002043	Bunyaviridae
+D000086103	Negative-Sense RNA Viruses
+D012328	RNA Viruses
+D014780	Viruses
+U000012	Organisms (MeSH Category)
+D009304	Nasopharyngitis
+D009302	Nasopharyngeal Diseases
+D010612	Pharyngitis
+D010608	Pharyngeal Diseases
+D020427	Peroneal Neuropathies
+D020422	Mononeuropathies
+D018437	Brown-Sequard Syndrome
+D010264	Paraplegia
+D010243	Paralysis
+D007896	Leishmaniasis
+D012876	Skin Diseases, Parasitic
+D009298	Nasal Polyps
+D011127	Polyps
+D020763	Pathological Conditions, Anatomical
+D001997	Bronchopulmonary Dysplasia
+D007235	Infant, Premature, Diseases
+D055397	Ventilator-Induced Lung Injury
+D007232	Infant, Newborn, Diseases
+D055370	Lung Injury
+D013898	Thoracic Injuries
+D013119	Spinal Cord Injuries
+D020196	Trauma, Nervous System
+D001748	Urinary Bladder Neck Obstruction
+D014524	Urethral Obstruction
+D014522	Urethral Diseases
+D001005	Anus Neoplasms
+D001004	Anus Diseases
+D012004	Rectal Neoplasms
+D015179	Colorectal Neoplasms
+D009404	Nephrotic Syndrome
+D009401	Nephrosis
+D020803	Encephalitis, Herpes Simplex
+D057049	Thrombotic Microangiopathies
+D003556	Cystitis
+D006954	Hyperlipoproteinemia Type V
+D011628	Puberty, Delayed
+D009410	Nerve Degeneration
+D018254	Adenomatoid Tumor
+D018301	Neoplasms, Mesothelial
+D054198	Precursor Cell Lymphoblastic Leukemia-Lymphoma
+D017116	Low Back Pain
+D001416	Back Pain
+D017565	Sarcoidosis, Pulmonary
+D006929	Hyperaldosteronism
+D018901	Peroxisomal Disorders
+D015140	Dementia, Vascular
+D002537	Intracranial Arteriosclerosis
+D020765	Intracranial Arterial Diseases
+D001161	Arteriosclerosis
+D001157	Arterial Occlusive Diseases
+D014009	Onychomycosis
+D014005	Tinea
+D018232	Rhabdomyosarcoma, Alveolar
+D012208	Rhabdomyosarcoma
+D009217	Myosarcoma
+D009379	Neoplasms, Muscle Tissue
+D003874	Dermatitis Herpetiformis
+D001929	Brain Edema
+D007174	Disruptive, Impulse Control, and Conduct Disorders
+D005185	Fallopian Tube Neoplasms
+D005184	Fallopian Tube Diseases
+D005512	Food Hypersensitivity
+D020795	Photophobia
+D014786	Vision Disorders
+D012678	Sensation Disorders
+D003324	Coronary Artery Disease
+D003327	Coronary Disease
+D003457	Cryptosporidiosis
+D008178	Lupus Erythematosus, Cutaneous
+D016489	Head Injuries, Closed
+D006259	Craniocerebral Trauma
+D014949	Wounds, Nonpenetrating
+D003449	Cryoglobulinemia
+D015432	Glomerulonephritis, Membranoproliferative
+D011470	Prostatic Hyperplasia
+D011271	Pregnancy, Ectopic
+D008269	Macular Edema
+D008268	Macular Degeneration
+D012162	Retinal Degeneration
+D000086002	Mesothelioma, Malignant
+D008654	Mesothelioma
+D065134	Lipedema
+D004938	Esophageal Neoplasms
+D004935	Esophageal Diseases
+D001196	Ascariasis
+D017191	Ascaridida Infections
+D007952	Leukemia, Plasma Cell
+D003929	Diabetic Neuropathies
+D008133	Long QT Syndrome
+D000292	Pelvic Inflammatory Disease
+D034161	Pelvic Infection
+D001477	Bartter Syndrome
+D031249	Erdheim-Chester Disease
+D015616	Histiocytosis, Non-Langerhans-Cell
+D000224	Addison Disease
+D000309	Adrenal Insufficiency
+D018088	Tuberculosis, Multidrug-Resistant
+D007868	Leg Dermatoses
+D010373	Lice Infestations
+D004478	Ectoparasitic Infestations
+D003490	Cyanosis
+D006526	Hepatitis C
+D013158	Splenic Diseases
+D009402	Nephrosis, Lipoid
+D021441	Carcinoma, Pancreatic Ductal
+D044584	Carcinoma, Ductal
+D018299	Neoplasms, Ductal, Lobular, and Medullary
+D020918	Complex Regional Pain Syndromes
+D000070639	Elbow Tendinopathy
+D052256	Tendinopathy
+D000092464	Elbow Injuries
+D001134	Arm Injuries
+D016918	Arthritis, Reactive
+D000094025	Post-Infectious Disorders
+D001170	Arthritis, Infectious
+D018589	Gastroparesis
+D010033	Otitis Media
+D014388	Tuberculosis, Lymph Node
+D001254	Astrocytoma
+D005368	Filariasis
+D017205	Spirurida Infections
+D016460	Granuloma Annulare
+D015270	Mycobacterium avium-intracellulare Infection
+D009165	Mycobacterium Infections, Nontuberculous
+D017824	Bone Cysts, Aneurysmal
+D001845	Bone Cysts
+D003560	Cysts
+D012512	Sarcoma, Ewing
+D006975	Hypertension, Portal
+D000544	Alzheimer Disease
+D024801	Tauopathies
+D006934	Hypercalcemia
+D002128	Calcium Metabolism Disorders
+D008288	Malaria
+D054218	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma
+D002289	Carcinoma, Non-Small-Cell Lung
+D008368	Mansonelliasis
+D013971	Thyrotoxicosis
+D006980	Hyperthyroidism
+D019955	Conduct Disorder
+D002006	Brucellosis
+D015473	Leukemia, Promyelocytic, Acute
+D015470	Leukemia, Myeloid, Acute
+D017728	Lymphoma, Large-Cell, Anaplastic
+D004751	Enteritis
+D055953	Microscopic Polyangiitis
+D009128	Muscle Spasticity
+D009122	Muscle Hypertonia
+D014860	Warts
+D030361	Papillomavirus Infections
+D014412	Tumor Virus Infections
+D006457	Hemoglobinuria, Paroxysmal
+D009190	Myelodysplastic Syndromes
+D000096865	Oppositional Defiant Disorder
+D005764	Gastroesophageal Reflux
+D015154	Esophageal Motility Disorders
+D003680	Deglutition Disorders
+D014526	Urethritis
+D014842	von Willebrand Diseases
+D008224	Lymphoma, Follicular
+D000086382	COVID-19
+D018352	Coronavirus Infections
+D011024	Pneumonia, Viral
+D003333	Coronaviridae Infections
+D030341	Nidovirales Infections
+D018192	Lymphangioleiomyomatosis
+D008203	Lymphangiomyoma
+D018190	Lymphatic Vessel Tumors
+D047748	Pituitary ACTH Hypersecretion
+D012878	Skin Neoplasms
+D020522	Lymphoma, Mantle-Cell
+D010493	Pericarditis
+D014010	Tinea Versicolor
+D018636	Hypoplastic Left Heart Syndrome
+D012810	Sigmoid Diseases
+D001919	Bradycardia
+D010383	Pellagra
+D005756	Gastritis
+D029502	Anemia, Hypoplastic, Congenital
+D000080984	Congenital Bone Marrow Failure Syndromes
+D013771	Tetralogy of Fallot
+D013130	Spinal Stenosis
+D015812	Glaucoma, Angle-Closure
+D014277	Trigeminal Neuralgia
+D020433	Trigeminal Nerve Diseases
+D005156	Facial Neuralgia
+D005155	Facial Nerve Diseases
+D006816	Huntington Disease
+D002819	Chorea
+D003072	Cognition Disorders
+D020820	Dyskinesias
+D015673	Fatigue Syndrome, Chronic
+D004679	Encephalomyelitis
+D020250	Postoperative Nausea and Vomiting
+D014839	Vomiting
+D009325	Nausea
+D006177	Gynecomastia
+D001941	Breast Diseases
+D009889	Opisthorchiasis
+D006073	Gout
+D000070657	Crystal Arthropathies
+D011686	Purine-Pyrimidine Metabolism, Inborn Errors
+D010391	Pemphigoid, Bullous
+D054058	Acute Coronary Syndrome
+D015266	Carcinoma, Merkel Cell
+D002295	Carcinoma, Transitional Cell
+D017726	Cytomegalovirus Retinitis
+D003586	Cytomegalovirus Infections
+D009976	Orthomyxoviridae Infections
+D001229	Aspergillosis, Allergic Bronchopulmonary
+D055732	Pulmonary Aspergillosis
+D008172	Lung Diseases, Fungal
+D010930	Plague
+D015009	Yersinia Infections
+D003110	Colonic Neoplasms
+D016868	Serratia Infections
+D017034	Epilepsy, Frontal Lobe
+D003320	Corneal Ulcer
+D002862	Chromoblastomycosis
+D006606	Hiccup
+D011081	Polychondritis, Relapsing
+D002357	Cartilage Diseases
+D009894	Opportunistic Infections
+D007246	Infertility
+D009855	Onchocerciasis
+D010673	Pheochromocytoma
+D010235	Paraganglioma
+D000562	Amebiasis
+D000196	Actinomycosis
+D006356	Heartburn
+D015461	Leukemia, Prolymphocytic, T-Cell
+D015463	Leukemia, Prolymphocytic
+D015458	Leukemia, T-Cell
+D020529	Multiple Sclerosis, Relapsing-Remitting
+D004831	Epilepsies, Myoclonic
+D005148	Facial Dermatoses
+D015863	Iridocyclitis
+D003453	Cryptococcosis
+D004823	Epididymitis
+D046728	Colitis, Microscopic
+D001528	Behcet Syndrome
+D056660	Hereditary Autoinflammatory Diseases
+D005922	Glomerulonephritis, IGA
+D036981	Fasciitis, Plantar
+D005208	Fasciitis
+D005534	Foot Diseases
+D014069	Tonsillitis
+D000856	Anorexia Nervosa
+D004942	Esophagitis, Peptic
+D004941	Esophagitis
+D000380	Agranulocytosis
+D007970	Leukopenia
+D009203	Myocardial Infarction
+D010301	Parkinson Disease, Postencephalitic
+D010302	Parkinson Disease, Secondary
+D013953	Thymus Neoplasms
+D000075222	Essential Hypertension
+D004418	Dyspnea, Paroxysmal
+D004417	Dyspnea
+D013736	Testicular Neoplasms
+D005834	Genital Neoplasms, Male
+D016919	Meningitis, Cryptococcal
+D016921	Meningitis, Fungal
+D020314	Central Nervous System Fungal Infections
+D009080	Mucocutaneous Lymph Node Syndrome
+D015433	Glomerulonephritis, Membranous
